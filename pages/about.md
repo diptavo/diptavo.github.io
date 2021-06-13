@@ -4,10 +4,7 @@ title: Bio
 description: Diptavo Dutta short academic biography
 ---
 
-- **Postdoctoral Fellow**, 2019 - Present <br/>
-    Advisors: [Nilanjan Chatterjee](https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee) and [Alexis Battle](https://www.bme.jhu.edu/people/faculty/alexis-battle) <br/>
-    Department of Biostatistics & Department of Biomedical Engineering <br/>
-    Johns Hopkins University
+Currently I am **Postdoctoral Fellow** (2019 - Present ) in Departments of Biostatistics & Department of Biomedical Engineering at the Bloomberg School of Public Health, Johns Hopkins University. My advisors are [Nilanjan Chatterjee](https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee) and [Alexis Battle](https://www.bme.jhu.edu/people/faculty/alexis-battle). 
 
 - **Ph.D. in Biostatistics**, 2019<br />
     Department of Biostatistics <br/> 
