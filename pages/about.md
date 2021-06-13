@@ -20,14 +20,13 @@ description: Diptavo Dutta short academic biography
     [Indian Statistical Institute](https://www.isical.ac.in/)<br />
     Kolkata, West Bengal, India.
 
-- ** B.Sc Statistics Honors**, 2012 <br/>
-  St. Xavier's College
-  University of Calcutta
+- **B.Sc Statistics Honors**, 2012 <br/>
+  St. Xavier's College <br/>
+  University of Calcutta <br/>
   Kolkata, West Bengal, India
 
 <p></p>
 
-Below is a word cloud of my research areas, projects and softwares
 
 <p></p>
 
