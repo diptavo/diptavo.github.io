@@ -1,16 +1,28 @@
 ---
 layout: page
 title: about
-description: Kushal K Dey is a researcher in stat
+description: Diptavo Dutta short academic biography
 ---
 
-# Hi, this is Diptavo
+- **Postdoctoral Fellow**, 2019 - Present <br/>
+    Advisors: Dr. [Nilanjan Chatterjee](https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee) and Dr. [Alexis Battle](https://www.bme.jhu.edu/people/faculty/alexis-battle) <br/>
+    Department of Biostatistics & Department of Biomedical Engineering <br/>
+    Johns Hopkins University
 
-I am a 5th year Ph.D. student in Statistics at the University of Chicago, working under [Matthew Stephens](http://stephenslab.uchicago.edu/). My research primarily involves building statistical and machine learning tools to tackleapplied problems originating from the fields of genomics, population genetics, ecology and natural language processing. For an overview of my research work, please check my [Research] page. 
+- **Ph.D. in Biostatistics**, 2019<br />
+    Department of Biostatistics <br/> 
+    University of Michigan, Ann Arbor <br />
+    Advisors: Dr. [Seunggeun (Shawn) Lee](https://sph.umich.edu/faculty-profiles/lee-seunggeun.html) 
+    Thesis: Statistical methods for voxel-wise classification of prostate cancer using multi-parametric MRI data.
 
-I have previously worked as a Visiting Student in [Gottardo Lab, Fred Hutchinson Cancer Research Center](https://www.fredhutch.org/en/labs/profiles/gottardo-raphael.html) during the summer of 2017 and in [Koeppl Lab](http://www.bcs.tu-darmstadt.de/biocomm/people_1/professor/heinzkoeppl.en.jsp) in summer 2013.
+- **B.S. in Statistics**, 2014<br />
+    School of the Gifted Young,<br />
+    University of Science and Technology of China<br />
+    Advisor: Dr. [Laisheng Wei](https://bs.ustc.edu.cn/english/profile-202.html)     
+    Thesis: The analysis of sub-health status among college students in China.
 
-I did my undergraduate and Masters in Statistics at the [Indian Statistical Institute, Kolkata](http://www.isical.ac.in/) where I worked on statistical theory related to Markov Chains for my masters thesis  (under [Dr.Sourabh Bhattacharya](http://www.isical.ac.in/~biru/sb.html))  as well as applied statistical work in nano sciences and medicalsciences. 
+
+
 
 <p></p>
 
