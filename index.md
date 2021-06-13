@@ -10,7 +10,7 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
       <ul class="nav">
       <!--    <li><a href="{{ BASE_PATH }}/assets/broman.pdf">cv</a></li>  -->
           <li><a href="https://github.com/diptavo">github</a></li>
-	  <li><a href="https://scholar.google.com/citations?user=0HmuYCUAAAAJ&hl=en">google_scholar</a></li>
+	  <li><a href="https://scholar.google.com/citations?user=0HmuYCUAAAAJ&hl=en">Google Scholar</a></li>
           <li><a href="https://twitter.com/Diptavo">@Diptavo</a></li>
       </ul>
   </div>
@@ -47,11 +47,11 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 
 - **March, 2021** Initial version of the Shiny application on visualizing cis-associations and fine-mapping results of 2,000 proteins is released. [Check it out !](http://nilanjanchatterjeelab.org/pwas/)
 
-- ** January, 2021** Article on gene-set association analysis (GAUSS) accepted in *AJHG*
+- **January, 2021** Article on gene-set association analysis (GAUSS) accepted in *AJHG*
 
 
 
-<!--
+
 
 <table class="wide">
 <tr>
@@ -88,4 +88,4 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
   </div>
 </div>
 
--->
+
