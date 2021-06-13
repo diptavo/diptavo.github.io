@@ -8,6 +8,8 @@ description: Diptavo Dutta's research work
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#articles">Publications</a></li>
+            <li><a href="#submitted">Submitted and Preprints </a></li>
+            <li><a href="#articles">Articles in prepartion</a></li>            
             <li><a href="#dissertation">Dissertation</a></li>
         </ul>
     </div>
@@ -30,7 +32,7 @@ description: Diptavo Dutta's research work
  
 Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Coresh, J. Proteins Associated with Risk of Kidney Function Decline in the General Population. *Journal of the American Society of Nephrology* (To appear).
 
-### <a name="articles"></a> Submitted and Preprints
+### <a name="submitted"></a> Submitted and Preprints
 
 **Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets.  2020. *Under Review* . [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v2)
 
@@ -43,6 +45,23 @@ Rhee, E., Surapaneni, A., Zheng, Z., Zhou, L.,**Dutta, D.**, ... , Grams, M. E. 
 Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N. I., Ganguli, A. Treatment Patterns and Survival in Patients with Glioblastoma Multiforme: A Retrospective Database Analysis Using US Electronic Health Records (EHR). 2019. *Under Review*.
 
 <sup>1</sup>: Authors contributed equally
+
+### <a name="Working papers"></a> Articles in prepartion
+
+**Dutta, D.** & Chatterjee, N. Fast and efficient liability model for binary phenotypes in Biobanks.
+
+**Dutta, D.**, Sen, A., Satagopan, J. Sparse canonical correlation identifies copy number variation-regulated genes for multiple breast cancer outcomes.
+
+**Dutta, D.**, Zhang, J., ... , Chatterjee, N. Novel sparse canonical correlation analysis to identify trans-regulated protein networks associated with known complex trait variants.
+
+Shabani, M.,**Dutta, D.**, ... , Lima, J. Rare genetic variants associated with Myocardial Fibrosis in Multi Ethnic Study of Atherosclerosis (MESA). [Link to Abstract](https://www.jacc.org/doi/full/10.1016/S0735-1097%2821%2902202-6)
+
+Shabani, M., **Dutta, D.**, ... , Lima, J. Rare Genetic Variants in Individuals with Low ASCVD Risk and Hard CHD or High Coronary Artery Disease: Multi-Ethnic Study of Atherosclerosis.
+
+Qi, G., **Dutta, D.**, ... , Chatterjee, N. A large-scale pleiotropic analysis identifies trait-specific loci and functional mechanisms.
+
+Chhetri, S., **Dutta, D.**, ... , Battle, A. A colocalization approach to determine shared heritability of diseases across ethnicities
+
 
 ### <a name="dissertation"></a> Dissertation
 
