@@ -14,23 +14,13 @@ description: Kushal K Dey's publications
 </div>
 
 
-### <a name="articles"></a>Selected Publications
+### <a name="articles"></a> Publications
 
-**KK Dey**, C.J. Hsiao, M. Stephens. Visualizing the structure of RNA-seq expression data using grade of membership models. *PLoS Genetics*. 2017. 13(3): e1006599. [![pdf](icons16/pdf-icon.png)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006599)
+**Dutta, D.**, Scott, L., Boehnke, M., Lee, S. Multi-SKAT: General framework to test multiple phenotype associations of rare variants.  *Genetic Epidemiology*. 2019. 43(1), 1-20. (Link)[https://pubmed.ncbi.nlm.nih.gov/30298564/] 
 
-**KK Dey**, D. Xie, M. Stephens. A new Sequence logo plot to highlight enrichment and depletion. *submitted*. [![pdf](icons16/pdf-icon.png)](https://www.biorxiv.org/content/early/2017/11/29/226597)
+**Dutta, D.**, Gagliano, S. A., Weinstock, J., Zawistowski, Sidore, C., Fritsche, L., M., Cucca, F., Schlessinger, D., Abecasis, G., Brummett, C.,  Lee. S. Meta-MultiSKAT: Region-based rare variant meta-analysis of multiple phenotypes using summary statistics. *Genetic Epidemiology*. 2019. 43(7), 800-814. (Link)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7006736/]
 
-**KK Dey**, M. Stephens. *CorShrink* : an adaptive strategy for shrinking correlations. *In preparation*.
-
-**KK Dey**, H. Al-Asadi, J. Novembre, M. Stephens. Inference and visualization of DNA damage patterns using a grade of membership model. *In preparation*.
-
-**KK Dey**, S Bhattacharya . A brief tutorial on transformation based Markov Chain Monte Carlo and optimal scaling of the additive transformation. *Brazilian Journal of Probability and Statistics*. 2017. Vol. 31, No. 3, 569–617. [![pdf](icons16/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.bjps/1503388830)
-
-**KK Dey**, S Bhattacharya. On geometric ergodicity of additive and multiplicative transformation-based Markov Chain Monte Carlo in high dimensions. *Brazilian Journal of Probability and Statistics*. 2016. Vol. 30, No. 4, 570–613. [![pdf](icons16/pdf-icon.png)](https://projecteuclid.org/download/pdfview_1/euclid.bjps/1481619618)
-
-AL Tarca, M Lauria, M Unger, E Bilal, S Boue, **KK Dey**, J Hoeng et al. Strengths and limitations of microarray-based phenotype prediction: lessons learned from the IMPROVER Diagnostic Signature Challenge. *Bioinformatics*. 2013. 29(22):2892-9. [![pdf](icons16/pdf-icon.png)](https://www.ncbi.nlm.nih.gov/pubmed/23966112)
-
-
+**Dutta, D.**, Brummett, C., Fritsche, L., Moser, S., Tsodikov, A., Lee, S., Clauw, D., Scott, L. (2020) Heritability of the fibromyalgia phenotype varies by age.*Arthritis \& Rheumatology*. 2020. 72(5), 815-823. (Link)[https://onlinelibrary.wiley.com/doi/abs/10.1002/art.41171]
 
 ### <a name="articles"></a> Other Publications
 
