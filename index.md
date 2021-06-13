@@ -11,7 +11,7 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
       <!--    <li><a href="{{ BASE_PATH }}/assets/broman.pdf">cv</a></li>  -->
           <li><a href="https://github.com/diptavo">github</a></li>
 	  <li><a href="https://scholar.google.com/citations?user=0HmuYCUAAAAJ&hl=en">google_scholar</a></li>
-          <li><a href="https://twitter.com/Diptavo">@kanishkadey</a></li>
+          <li><a href="https://twitter.com/Diptavo">@Diptavo</a></li>
       </ul>
   </div>
 </div>
