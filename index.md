@@ -19,17 +19,17 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="assets/bigpublpics/Diptav_Dutta.jpg" width="400" height="400" alt="" />
+    <img id="frontphoto" src="assets/bigpublpics/Diptav_Dutta.jpg" width="300" height="300" alt="" />
 </td>
 <td class="left">
 <br><b> Diptavo Dutta </b>
 <br> Postdoctoral Fellow
-<br> Departments of Biostatistics and Biomedical Engineering
+<br> Departments of Biostatistics & Biomedical Engineering
 <br> Jonhs Hopkins University
 <br>
 <br> <b> Research Interest </b>: Statistical Genetics, GWAS,
-                <br>  Clustering, Classification, Adaptive Methods,
-                <br>  Statistical Ecology, Ancient DNA
+                <br>  eQTL, multi-omics, Mixed Models,
+                <br>  Quasi-likelihood models, Factor models.
 <br> 
 
 </td>
@@ -39,27 +39,15 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 
 ## News
 
-- **September 2018** : Starting as a Postdoctoral Researcher in Alkes Price Lab, Harvard Scool of Public Health.
+- **May, 2021** Collaborative article on GWAS of Pelvic Organ Prolapse Using the Michigan Genomics Initiative accepted in Female Pelvic Medicine & Reconstructive Surgery
 
-- **May 22, 2018** : My preprint on model based inference and 
-visualization of ancient DNA damage patterns (with co-authors 
-Hussein Al-Asadi, John Novembre and Matthew Stephens) is now
-out ! Check [here](https://www.biorxiv.org/content/early/2018/05/21/327684).
+- **April, 2021** Collaborative article on proteins associated with risk of kidney function decline accepted in *JASN*
 
-- **May 11, 2018** : Presenting poster on `Black Magazines in 1960-1970s American History` at the Conference on New Aspect of Statistics, Financial Econometrics, and Data Science, to be held at Stevanovich Center, University of Chicago.
-[event details](https://stevanovichcenter.uchicago.edu/page/new-aspects-statistics-financial-econometrics-and-data-science).
+-  **March, 2021** Preprint on Proteome-wide association models is out on [medRXiv](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract)
 
-- **May 9, 2018**  : Presenting  at Graduate Arts, Science + Culture Collaboration grant event : [event details](https://arts.uchicago.edu/event/arts-science-culture-graduate-collaboration-grant-final-presentations-0).
+- **March, 2021** Initial version of the Shiny application on visualizing cis-associations and fine-mapping results of 2,000 proteins is released. [Check it out !](http://nilanjanchatterjeelab.org/pwas/)
 
-- **May 8, 2018**  : Presenting poster on `Black Magazines As a Mirror to 1960-1970s American History` at Mind Bytes: Research Computing Expo and Symposium. [event details](https://mindbytes.uchicago.edu/callforposters.php)
-
-- **May 1, 2018** :  Updated release versions of my packages [CountClust](https://bioconductor.org/packages/release/bioc/html/CountClust.html) and [Logolas](https://bioconductor.org/packages/release/bioc/html/Logolas.html) in Bioconductor 3.7. 
-
-- **April 30, 2018** : R package [Logolas](https://bioconductor.org/packages/release/bioc/html/Logolas.html) now among
-the top 5 % downloaded packages on Bioconductor !
-
-
-
+- ** January, 2021** Article on gene-set association analysis (GAUSS) accepted in *AJHG*
 
 
 
