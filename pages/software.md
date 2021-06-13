@@ -1,59 +1,40 @@
 ---
 layout: page
 title: softwares
-description: Kushal K  Dey's software
+description: Diptavo's software
 ---
 
-The following is a list of softwares I have developed over the recent years-
 
-### <a name="CountClust"></a>[CountClust](https://github.com/kkdey/CountClust)
+### <a name="PathWeb"></a>[PathWebt](https://ukb-pathway.leelabsg.org/)
 
-* R package (with C.J. Hsiao and M. Stephens)
-
-* Title : Clustering and Visualizing RNA-Seq Expression Data using Grade of Membership Models : [Bioc Version](https://bioconductor.org/packages/release/bioc/html/CountClust.html), [Github Version](https://github.com/kkdey/CountClust)
-  + top 20 % in less than 2 years on Bioc with > 5000 downloads
+* Visualization interface for results from gene-set association analysis of over 10,000 gene-sets and 1,403 binary phenotypes in UK BioBank
 
 
-  
+### <a name="PWAS"></a>[PWAS](http://nilanjanchatterjeelab.org/pwas/)
+
+* R-shiny Application for visualizing cis-association and fine-mapping results for around 2,000 proteins in ARIC study
 
 
-### <a name="Logolas"></a>[Logolas](https://github.com/kkdey/Logolas)
+### <a name="MultiSKAT"></a>[MultiSKAT](https://github.com/diptavo/MultiSKAT)
 
-* R package  (with D. Xie and M. Stephens)
-
-* Title : Flexible and Customized Logo Plots using symbols, alphabets, numbers  and alphanumeric strings : 
- [Bioc Version](https://bioconductor.org/packages/release/bioc/html/Logolas.html)
- [Github Version](https://github.com/kkdey/Logolas)
-  + top 5 % in less than 1.5 years on Bioc with > 5000 downloads
+* R package to test multiple phenotype associations of rare variants
 
 
-### <a name="CorShrink"></a>[CorShrink](https://github.com/kkdey/CorShrink)
 
-* R package (with M. Stephens)
+### <a name="MMSKT"></a>[MetaMultiSKAT](https://github.com/diptavo/MetaMultiSKAT)
 
-* Title: R package for adaptive correlation and covariance matrix shrinkage. [Github Version](https://github.com/kkdey/CorShrink), [Project Page](https://kkdey.github.io/CorShrink-pages/)
-
-
-### <a name="aRchaic"></a>[aRchaic](https://github.com/kkdey/aRchaic)
-
-* R/python software interface (with H. Al-Asadi)
-
-* Title : Exploration, clustering, visualization and classification of DNA damage patterns.
-  [Github Version](https://github.com/kkdey/aRchaic), [Project Page](https://kkdey.github.io/aRchaic/)
+* R package for rare variant meta-analysis of multiple phenotypes using summary statistics
 
 
-### <a name="methClust"></a>[methClust](https://github.com/kkdey/aRchaic)
+### <a name="GAUSS"></a>[GAUSS](https://github.com/diptavo/GAUSS)
 
-* R package
-
-* Title: Grade of Membership clustering in methylation data.
-  [Github Version](https://github.com/kkdey/aRchaic)
+* R package for subset-based gene-set analysis method (GAUSS)
 
 
-### <a name="tmcmcR"></a>[tmcmcR](https://github.com/kkdey/tmcmcR)
+### <a name="ARCHIE"></a>[ARCHIE](https://github.com/diptavo/ARCHIE)
 
-* R package (with S. Bhattacharya)
-* Title : Trasnformation based Markov Chain Monte Carlo
-[Github Version](https://github.com/kkdey/tmcmcR), [tmcmcR vignette](https://rpubs.com/kkdey/132076)
+* R-codes for summary-based sparse canonical correlation analysis in large-scale trans-eQTL studies.
+
+
 
 
