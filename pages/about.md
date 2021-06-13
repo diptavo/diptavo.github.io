@@ -28,13 +28,10 @@ Before my doctoral studies, I earned a <b>Masters in Statistics (M.Stat)</b> in 
 
 <p></p>
 
-
-<div class="container">
-<h4><a name="Resume"></a>contact</h4>
+### Resume
 
 You can find my current CV here. [![pdf](icons16/pdf-icon.png)](CV_DD.pdf)
 
-</div>
 <!--
 
 <p></p>
