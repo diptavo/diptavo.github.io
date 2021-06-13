@@ -16,7 +16,7 @@ description: Kushal K Dey's publications
 
 ### <a name="articles"></a> Publications
 
-**Dutta, D.**, Scott, L., Boehnke, M., Lee, S. Multi-SKAT: General framework to test multiple phenotype associations of rare variants.  *Genetic Epidemiology*. 2019. 43(1), 1-20. (Link)[https://pubmed.ncbi.nlm.nih.gov/30298564/] 
+**Dutta, D.**, Scott, L., Boehnke, M., Lee, S. Multi-SKAT: General framework to test multiple phenotype associations of rare variants.  *Genetic Epidemiology*. 2019. 43(1), 1-20. [Link](https://pubmed.ncbi.nlm.nih.gov/30298564/])
 
 **Dutta, D.**, Gagliano, S. A., Weinstock, J., Zawistowski, Sidore, C., Fritsche, L., M., Cucca, F., Schlessinger, D., Abecasis, G., Brummett, C.,  Lee. S. Meta-MultiSKAT: Region-based rare variant meta-analysis of multiple phenotypes using summary statistics. *Genetic Epidemiology*. 2019. 43(7), 800-814. (Link)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7006736/]
 
