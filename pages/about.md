@@ -43,13 +43,14 @@ You can find my current CV here. [![pdf](icons16/pdf-icon.png)](CV_DD.pdf)
 -->
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
            Diptavo Dutta<br/>
             <a href="https://www.jhsph.edu/departments/biostatistics/">Department of Biostatistics</a><br/>
             Bloomberg School of Public Health<br/>
+            Johns Hopkins University<br/>
             615 N Wolfe Street, E3001<br/>
             Baltimore, MD 21205<br/>
             USA<br/>
