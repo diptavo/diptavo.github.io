@@ -22,18 +22,15 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
     <img id="frontphoto" src="assets/bigpublpics/dp2.jpg" width="300" height="300" alt="" />
 </td>
 <td class="left">
-<br><b> Kushal K Dey </b>
-<br> PhD, Dept of Statistics
-<br> University of Chicago
-<br><i> Matthew Stephens Lab </i>
+<br><b> Diptavo Dutta </b>
+<br> Postdoctoral Fellow
+<br> Departments of Biostatistics and Biomedical Engineering
+<br> Jonhs Hopkins University
 <br>
-<br> <b> Research Interest </b>: Statistical Genomics, Topic Models,
+<br> <b> Research Interest </b>: Statistical Genetics, GWAS,
                 <br>  Clustering, Classification, Adaptive Methods,
                 <br>  Statistical Ecology, Ancient DNA
 <br> 
-<br> <b> Awards </b> :
-<br> <i> David Wallace Award in Applied Statistics, 2016 </i>
-<br> <i> Graduate Arts, Science + Culture Grant, 17-18 </i>
 
 </td>
 </tr>
