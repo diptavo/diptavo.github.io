@@ -51,7 +51,7 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 
 
 
-
+<!--
 
 <table class="wide">
 <tr>
@@ -88,4 +88,4 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
   </div>
 </div>
 
-
+-->
