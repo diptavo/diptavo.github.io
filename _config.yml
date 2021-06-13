@@ -16,7 +16,7 @@ author :
   twitter : Diptavo
   feedburner : nil
 
-production_url : http://diptavo.github.io
+production_url : https://diptavo.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
