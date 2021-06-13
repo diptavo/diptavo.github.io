@@ -5,7 +5,7 @@ description: Diptavo's software
 ---
 
 
-### <a name="PathWeb"></a>[PathWebt](https://ukb-pathway.leelabsg.org/)
+### <a name="PathWeb"></a>[PathWeb](https://ukb-pathway.leelabsg.org/)
 
 * Visualization interface for results from gene-set association analysis of over 10,000 gene-sets and 1,403 binary phenotypes in UK BioBank
 
