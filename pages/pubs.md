@@ -66,7 +66,7 @@ Chhetri, S., **Dutta, D.**, ... , Battle, A. A colocalization approach to determ
 ### <a name="dissertation"></a> Dissertation
 
 
-**Dutta. D*. Statistical Methods for Gene-based and Gene-Set Analysis. PhD Dissertation Thesis [![pdf](icons16/pdf-icon.png)](diptavo_1.pdf)
+**Dutta. D**. Statistical Methods for Gene-based and Gene-Set Analysis. PhD Dissertation Thesis. Advisor Dr. Seunggeun (Shawn) Lee. [![pdf](icons16/pdf-icon.png)](diptavo_1.pdf)
 
 
 
