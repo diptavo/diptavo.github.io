@@ -6,7 +6,7 @@ description: Diptavo Dutta short academic biography
 
 <p align="justify">
 
-Currently I am a <b>Postdoctoral Fellow</b> (2019 - Present) in <a href="https://www.jhsph.edu/departments/biostatistics/">Departments of Biostatistics</a> & <a href="https://www.bme.jhu.edu/">Biomedical Engineering</a> at the Bloomberg School of Public Health, <a href="https://www.jhu.edu/">Johns Hopkins University</a>. My advisors are <a href="https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee">Nilanjan Chatterjee</a>  and <a href="https://www.bme.jhu.edu/people/faculty/alexis-battle">Alexis Battle</a> I also collaborate closely with faculty from Department of Epidemiology and School of Medicine at JHU. My research interests lie in novel statistical methodologies for broad applications in Statistical Genetics, Genome-wide Association Studies (GWAS), Transcriptomics and Proteomics, Multi-omics data integration and Disease Risk Prediction. See my Research Interests and <a href="https://diptavo.github.io/pages/pubs.html"> recent publications</a> for more information on my current and past work.
+I am a <b>Postdoctoral Fellow</b> (2019 - Present) in <a href="https://www.jhsph.edu/departments/biostatistics/">Departments of Biostatistics</a> & <a href="https://www.bme.jhu.edu/">Biomedical Engineering</a> at the Bloomberg School of Public Health, <a href="https://www.jhu.edu/">Johns Hopkins University</a>. My advisors are <a href="https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee">Nilanjan Chatterjee</a>  and <a href="https://www.bme.jhu.edu/people/faculty/alexis-battle">Alexis Battle</a>. I also collaborate closely with faculty from Department of Epidemiology and School of Medicine at JHU. My research interests lie in novel statistical methodologies for broad applications in Statistical Genetics, Genome-wide Association Studies (GWAS), Transcriptomics and Proteomics, Multi-Omics Data Integration and Disease Risk Prediction. See my Research Interests and <a href="https://diptavo.github.io/pages/pubs.html"> recent publications</a> for more information on my current and past work.
 
 </p>
 
@@ -20,10 +20,21 @@ I earned my <b>Ph.D. in Biostatistics</b> in 2019 from the <a href="https://sph.
 
 </p>
 
+
+<p align="justify">
+
 Before my doctoral studies, I earned a <b>Masters in Statistics (M.Stat)</b> in 2014 from the <a href="https://www.isical.ac.in/">Indian Statistical Institute</a> with Biostatistics and Data analysis specializationand <b>B.Sc Statistics Honors</b> in 2012 from St. Xavier's College, University of Calcutta.
+</p>
 
 <p></p>
 
+
+<div class="container">
+<h4><a name="Resume"></a>contact</h4>
+
+You can find my current CV here. [![pdf](icons16/pdf-icon.png)](CV_DD.pdf)
+
+</div>
 <!--
 
 <p></p>
