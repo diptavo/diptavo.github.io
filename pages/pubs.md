@@ -26,36 +26,23 @@ description: Diptavo Dutta's research work
  
  **Dutta, D.**, VandeHaar, P., Fritsche, L. G., Zollner, S., Boehnke, M., Scott, L. J., Lee, S. A powerful subset-based gene-set analysis method identifies novel associations and improves interpretation in UK Biobank. *The American Journal of Human Genetics*. 2021. 108(4) 669-681. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0002929721000586)
  
- Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W. Genome Wide Association Study of Pelvic Organ Prolapse using the Michigan Genomics Initiative. *Female Pelvic Medicine & Reconstructive Surgery*. (Link)[https://europepmc.org/article/med/34027909] 
+ Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W. Genome Wide Association Study of Pelvic Organ Prolapse using the Michigan Genomics Initiative. *Female Pelvic Medicine & Reconstructive Surgery*. [Link](https://europepmc.org/article/med/34027909)
  
 Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Coresh, J. Proteins Associated with Risk of Kidney Function Decline in the General Population. *Journal of the American Society of Nephrology* (To appear).
 
-### <a name="articles"></a> Other Publications
+### <a name="articles"></a> Submitted and Preprints
 
-**KK Dey**, S Bhattacharya . A Brief Review of Optimal Scaling of the Main MCMC Approaches and Optimal Scaling of Additive TMCMC Under Non-Regular Cases. Accepted. *Brazilian Journal of Probability and Statistics*. 2017. [![pdf](icons16/pdf-icon.png)](http://imstat.org/bjps/papers/BJPS386.pdf)
+**Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets.  2020. *Under Review* . [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v2)
 
+Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>,**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms. 2021. *Under Review*. [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v2)
 
-B Karmakar, K Dhara, **KK Dey**, A Basu, AK Ghosh. Tests for statistical significance of a treatment effect in the presence of hidden sub-populations. *Statistical Methods & Applications*.March 2015, Volume 24, Issue 1, pp 97-119. [![pdf](icons16/pdf-icon.png)](https://link.springer.com/article/10.1007/s10260-014-0271-x)
+Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies. 2021. *Under revision in Nature Genetics*. [preprint on bioRXiv](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract)
 
-**KK Dey**, S Bhattacharya. On Single Variable Transformation Approach to Markov Chain Monte Carlo. *JSM Proceedings*. 2014.  [![pdf](icons16/pdf-icon.png)](http://arxiv.org/abs/1408.6667)
+Rhee, E., Surapaneni, A., Zheng, Z., Zhou, L.,**Dutta, D.**, ... , Grams, M. E. A Trans-ethnic Genome-wide Association Study of Blood Metabolites in the Chronic Renal Insufficiency Cohort (CRIC) Study. 2021. *Under Review*.
 
+Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N. I., Ganguli, A. Treatment Patterns and Survival in Patients with Glioblastoma Multiforme: A Retrospective Database Analysis Using US Electronic Health Records (EHR). 2019. *Under Review*.
 
-
-S Pradhan, P Patra, S Mitra, **KK Dey**, S Basu, S Chandra, P Palit, A Goswami. Copper Nanoparticle (CuNP) Nanochain Arrays with a Reduced Toxicity Response: A Biophysical and Biochemical Outlook on Vigna radiata. *J. Agric. Food Chem*, 2015, 63 (10), pp 2606 - 2617.  [![pdf](icons16/pdf-icon.png)](http://pubs.acs.org/doi/pdf/10.1021/jf504614w)
-
-S Mitra, P Patra, S Pradhan, N Debnath, **KK Dey**, S Sarkar, D Chattopadhyay, A Goswami. Microwave synthesis of ZnO@mSiO2 for detailed antifungal mode of action study: Understanding the insights into oxidative stress. *Journal of Colloid and Interface Science*, Volume 444, 15 April 2015, Pages 97-108.  [![pdf](icons16/pdf-icon.png)](http://ac.els-cdn.com/S0021979714009941/1-s2.0-S0021979714009941-main.pdf?_tid=7076354e-51da-11e5-bc29-00000aacb35d&acdnat=1441243613_b2b01e8384300b45885705aee00aa81f)
-
-SR Choudhury, A Basu, **KK Dey**, T Nag, A Goswami. Toxicological Evaluation of Antimicrobially Potent Sulfur Nanoparticles Against Biochemical, Histopathological, and Behavioral Properties in Mice. *Proceedings of the Zoological Society*. June 2015, Volume 68, Issue 1, pp 64-73. [![pdf](icons16/pdf-icon.png)](https://link.springer.com/article/10.1007/s12595-014-0098-3)
-
-
-S Pradhan, P Patra, S Mitra, **KK Dey**, S Jain, S Sarkar, S Roy, P Palit, A Goswami. Manganese Nanoparticles: Impact on Non-nodulated Plant as a Potent Enhancer in Nitrogen Metabolism and Toxicity Study both in Vivo and in Vitro. *J. Agric. Food Chem.*, 2014, 62 (35), pp 8777-8785.  [![pdf](icons16/pdf-icon.png)](http://pubs.acs.org/doi/ipdf/10.1021/jf502716c)
-
-
-P Nandy, M Unger, C Zechner, **KK Dey**, H Koeppl. Learning diagnostic signatures from microarray data using L1-regularized logistic regression. *Systems Biomedicine*. 1 (4), 2013. [![pdf](icons16/pdf-icon.png)](http://www.tandfonline.com/doi/pdf/10.4161/sysb.25271)
-
-S Pradhan, P Patra, S Das, S Chandra, S Mitra, **KK Dey**, S Akbar, P Palit, A Goswami. Photochemical Modulation of Biosafe Manganese Nanoparticles on Vigna radiata: A Detailed Molecular, Biochemical, and Biophysical Study.  *Environ. Sci. Technol.*, 2013, 47 (22), pp 13122-13131. [![pdf](icons16/pdf-icon.png)](http://pubs.acs.org/doi/pdf/10.1021/es402659t)
-
-SR Choudhury, **KK Dey**, S Bera, A Goswami. Colloidal stability and coagulation kinetics study of different sized sulphur nanoparticles. *Journal of Experimental Nanoscience*, 8 (3), 2013. [![pdf](icons16/pdf-icon.png)](http://www.tandfonline.com/doi/abs/10.1080/17458080.2012.667161#.Veeki9NViko)
+<sup>1</sup>: Authors contributed equally
 
 ### <a name="dissertation"></a> Dissertation
 
