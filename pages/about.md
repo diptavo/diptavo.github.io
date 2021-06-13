@@ -4,7 +4,7 @@ title: about
 description: Kushal K Dey is a researcher in stat
 ---
 
-# Hi, this is Kushal
+# Hi, this is Diptavo
 
 I am a 5th year Ph.D. student in Statistics at the University of Chicago, working under [Matthew Stephens](http://stephenslab.uchicago.edu/). My research primarily involves building statistical and machine learning tools to tackleapplied problems originating from the fields of genomics, population genetics, ecology and natural language processing. For an overview of my research work, please check my [Research] page. 
 
