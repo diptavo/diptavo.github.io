@@ -9,7 +9,7 @@ description: Diptavo Dutta's research work
         <ul class="nav">
             <li><a href="#articles">Publications</a></li>
             <li><a href="#submitted">Submitted and Preprints </a></li>
-            <li><a href="#articles">Articles in prepartion</a></li>            
+            <li><a href="#Working">Articles in preparation</a></li>            
             <li><a href="#dissertation">Dissertation</a></li>
         </ul>
     </div>
@@ -46,7 +46,7 @@ Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N.
 
 <sup>1</sup>: Authors contributed equally
 
-### <a name="Working papers"></a> Articles in prepartion
+### <a name="Working"></a> Articles in preparation
 
 **Dutta, D.** & Chatterjee, N. Fast and efficient liability model for binary phenotypes in Biobanks.
 
@@ -66,7 +66,7 @@ Chhetri, S., **Dutta, D.**, ... , Battle, A. A colocalization approach to determ
 ### <a name="dissertation"></a> Dissertation
 
 
-**KK Dey**. On ergodic behaviour of Additive Transformation based Markov Chain Monte Carlo. *Masters Dissertation Thesis*. ISI Kolkata (under Prof. S. Bhattacharya) [![pdf](icons16/pdf-icon.png)](thesis.pdf)
+**Dutta. D*. Statistical Methods for Gene-based and Gene-Set Analysis. PhD Dissertation Thesis [![pdf](icons16/pdf-icon.png)](diptavo_1.pdf)
 
 
 
