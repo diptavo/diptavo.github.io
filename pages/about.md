@@ -27,6 +27,7 @@ description: Diptavo Dutta short academic biography
 
 <p></p>
 
+<!--
 
 <p></p>
 
@@ -34,19 +35,20 @@ description: Diptavo Dutta short academic biography
     <img id="frontphoto" src="wordcloud.svg" width="500" height="500" alt="" />
 </td>
 
+-->
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Kushal K Dey<br/>
-            <a href="https://galton.uchicago.edu/">Department of Statistics</a><br/>
-            <a href="http://genes.uchicago.edu/">Department of Human Genetics</a><br/>
-            920 E. 58th Strt, CLSC<br/>
-            Chicago, IL 60615<br/>
+           Diptavo Dutta<br/>
+            <a href="https://www.jhsph.edu/departments/biostatistics/">Department of Biostatistics</a><br/>
+            Bloomberg School of Public Health<br/>
+            615 N Wolfe Street, E3001<br/>
+            Baltimore, MD 21205<br/>
             USA<br/>
-	    Email: kkdey@uchicago.edu, kkdey@galton.uchicago.edu<br/>
+	    Email: diptavo21@jhu.edu, dutta.diptavo@gmail.com<br/>
         </div>
     </div>
 </div>
