@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Kushal K Dey
+title: Diptavo Dutta
 description: Kushal K Dey is a graduate student at University of Chicago, Statistics department currently involved in research in statistical genetics in Matthew Stephens Lab. Also involved in side projects on medical statistics, statistical nanosciences and MCMC. 
 keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCMC, nanosciences, 
 ---
@@ -9,9 +9,9 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
   <div class="navbar-inner">
       <ul class="nav">
       <!--    <li><a href="{{ BASE_PATH }}/assets/broman.pdf">cv</a></li>  -->
-          <li><a href="https://github.com/kkdey">github</a></li>
+          <li><a href="https://github.com/diptavo">github</a></li>
 	  <li><a href="https://scholar.google.com/citations?user=enYTvroAAAAJ&hl=en&oi=ao">google_scholar</a></li>
-          <li><a href="https://twitter.com/kanishkadey">@kanishkadey</a></li>
+          <li><a href="https://twitter.com/Diptavo">@kanishkadey</a></li>
       </ul>
   </div>
 </div>
