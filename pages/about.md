@@ -23,7 +23,7 @@ I earned my <b>Ph.D. in Biostatistics</b> in 2019 from the <a href="https://sph.
 
 <p align="justify">
 
-Before my doctoral studies, I earned a <b>Masters in Statistics (M.Stat)</b> in 2014 from the <a href="https://www.isical.ac.in/">Indian Statistical Institute</a> with Biostatistics and Data analysis specializationand <b>B.Sc Statistics Honors</b> in 2012 from St. Xavier's College, University of Calcutta.
+Before my doctoral studies, I earned a <b>Masters in Statistics (M.Stat)</b> in 2014 from the <a href="https://www.isical.ac.in/">Indian Statistical Institute</a> with Biostatistics and Data analysis specialization and <b>B.Sc Statistics Honors</b> in 2012 from St. Xavier's College, University of Calcutta.
 </p>
 
 <p></p>
