@@ -6,15 +6,20 @@ description: Diptavo Dutta short academic biography
 
 <p align="justify">
 
-Currently I am a **Postdoctoral Fellow** (2019 - Present ) in Departments of Biostatistics & Department of Biomedical Engineering at the Bloomberg School of Public Health, Johns Hopkins University. My advisors are <a href="https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee">Nilanjan Chatterjee</a>  and <a href="https://www.bme.jhu.edu/people/faculty/alexis-battle">Alexis Battle</a> . My research interests lie in novel statistical methodologies for broad applications in Statistical Genetics, Genome-wide Association Studies (GWAS), Transcriptomics and Proteomics, Multi-omics data integration and Disease Risk Prediction. See my Research Interests and <a href="https://diptavo.github.io/pages/pubs.html"> recent publications</a> for more information on my current and past work.
+Currently I am a <b>Postdoctoral Fellow</b> (2019 - Present) in Departments of Biostatistics & Biomedical Engineering at the Bloomberg School of Public Health, Johns Hopkins University. My advisors are <a href="https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee">Nilanjan Chatterjee</a>  and <a href="https://www.bme.jhu.edu/people/faculty/alexis-battle">Alexis Battle</a> . My research interests lie in novel statistical methodologies for broad applications in Statistical Genetics, Genome-wide Association Studies (GWAS), Transcriptomics and Proteomics, Multi-omics data integration and Disease Risk Prediction. See my Research Interests and <a href="https://diptavo.github.io/pages/pubs.html"> recent publications</a> for more information on my current and past work.
 
 </p>
 
 <p></p>
 <p></p>
+<p></p>
 
 
-I earned my **Ph.D. in Biostatistics** in 2019 from the Department of Biostatistics, University of Michigan, Ann Arbor. under the supervision of [Seunggeun (Shawn) Lee](https://sph.umich.edu/faculty-profiles/lee-seunggeun.html). In my Ph.D. [thesis](https://diptavo.github.io/pages/pubs.html#dissertation) Statistical Methods for Gene-based and Gene-Set Analysis, I worked on novel statistical methods for identifying pleiotropic rare variants and associations of pathways with diseases. My dissertation work led to **3 publications** in *Genetic Epidemiology* and *The American Journal of Human Genetics*.  Additionally, as a member of the Center for Statistical Genetics, I have worked with [Michael Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html), [Laura Scott](https://sph.umich.edu/faculty-profiles/scott-laura.html) and [Ananda Sen](https://sph.umich.edu/faculty-profiles/sen-ananda.html) . 
+<p align="justify">
+
+I earned my <b>Ph.D. in Biostatistics</b> in 2019 from the Department of Biostatistics, University of Michigan, Ann Arbor. under the supervision of <a href="https://sph.umich.edu/faculty-profiles/lee-seunggeun.html">Seunggeun (Shawn) Lee</a>. In my <a href="https://diptavo.github.io/pages/pubs.html#dissertation">Ph.D. thesis</a> titled <i>Statistical Methods for Gene-based and Gene-Set Analysis</i>, I worked on novel statistical methods for identifying pleiotropic rare variants and associations of pathways with diseases. My dissertation work led to <b>3 publications</b> in <i>Genetic Epidemiology</i> and <i>The American Journal of Human Genetics</i>.  Additionally, as a member of the Center for Statistical Genetics, I have worked with <a href="https://sph.umich.edu/faculty-profiles/boehnke-michael.html">Michael Boehnke</a>, <a href="https://sph.umich.edu/faculty-profiles/scott-laura.html">Laura Scott</a> and <a href="https://sph.umich.edu/faculty-profiles/sen-ananda.html">Ananda Sen</a>. 
+
+</p>
 
 - **Masters in Statistics (M.Stat)**, 2014<br />
     [Indian Statistical Institute](https://www.isical.ac.in/)<br />
