@@ -1,6 +1,6 @@
-## Kushal K Dey website
+## Diptavo Dutta's website
 
-See [kkdey.github.io](http://kkdey.github.io).
+See [diptavo.github.io](http://diptavo.github.io).
 
 ---
 
