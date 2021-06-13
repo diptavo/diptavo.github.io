@@ -1,28 +1,29 @@
 ---
 layout: page
-title: about
+title: Bio
 description: Diptavo Dutta short academic biography
 ---
 
 - **Postdoctoral Fellow**, 2019 - Present <br/>
-    Advisors: Dr. [Nilanjan Chatterjee](https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee) and Dr. [Alexis Battle](https://www.bme.jhu.edu/people/faculty/alexis-battle) <br/>
+    Advisors: [Nilanjan Chatterjee](https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee) and [Alexis Battle](https://www.bme.jhu.edu/people/faculty/alexis-battle) <br/>
     Department of Biostatistics & Department of Biomedical Engineering <br/>
     Johns Hopkins University
 
 - **Ph.D. in Biostatistics**, 2019<br />
     Department of Biostatistics <br/> 
     University of Michigan, Ann Arbor <br />
-    Advisors: Dr. [Seunggeun (Shawn) Lee](https://sph.umich.edu/faculty-profiles/lee-seunggeun.html) 
-    Thesis: Statistical methods for voxel-wise classification of prostate cancer using multi-parametric MRI data.
+    Advisors: [Seunggeun (Shawn) Lee](https://sph.umich.edu/faculty-profiles/lee-seunggeun.html) <br/>
+    Committee Members: [Michael Boehnke](https://sph.umich.edu/faculty-profiles/boehnke-michael.html), [Laura Scott](https://sph.umich.edu/faculty-profiles/scott-laura.html) and [Ananda Sen](https://sph.umich.edu/faculty-profiles/sen-ananda.html) <br/>
+    Thesis Title: Statistical Methods for Gene-based and Gene-Set Analysis
 
-- **B.S. in Statistics**, 2014<br />
-    School of the Gifted Young,<br />
-    University of Science and Technology of China<br />
-    Advisor: Dr. [Laisheng Wei](https://bs.ustc.edu.cn/english/profile-202.html)     
-    Thesis: The analysis of sub-health status among college students in China.
+- **Masters in Statistics (M.Stat)**, 2014<br />
+    [Indian Statistical Institute](https://www.isical.ac.in/)<br />
+    Kolkata, West Bengal, India.
 
-
-
+- ** B.Sc Statistics Honors**, 2012 <br/>
+  St. Xavier's College
+  University of Calcutta
+  Kolkata, West Bengal, India
 
 <p></p>
 
