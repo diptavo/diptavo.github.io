@@ -4,7 +4,11 @@ title: Bio
 description: Diptavo Dutta short academic biography
 ---
 
+<p align="justify">
+
 Currently I am a **Postdoctoral Fellow** (2019 - Present ) in Departments of Biostatistics & Department of Biomedical Engineering at the Bloomberg School of Public Health, Johns Hopkins University. My advisors are [Nilanjan Chatterjee](https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee) and [Alexis Battle](https://www.bme.jhu.edu/people/faculty/alexis-battle). My research interests lie in novel statistical methodologies for broad applications in Statistical Genetics, Genome-wide Association Studies (GWAS), Transcriptomics and Proteomics, Multi-omics data integration and Disease Risk Prediction. See my Research Interests and [recent publications](https://diptavo.github.io/pages/pubs.html) for more information on my current and past work.
+
+</p>
 
 <p></p>
 <p></p>
