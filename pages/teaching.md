@@ -12,7 +12,7 @@ description: Diptavo etc
     </a>
   </td>
   <td class="right">
-  	<a href="publpics/scca.html"> <b>Protein Quantitative Trait Loci (pQTL)</b></a>
+  Understanding the genetic regulation of proteins levels can produce novel therapeutic targets for many traits and diseases. I have been involved in large-scale study of genetic regulation  of plasma proteins. <a href="publpics/scca.html"> <b>Read more</b></a>.
   </td>
  </tr>
  <tr>
