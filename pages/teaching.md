@@ -7,8 +7,8 @@ description: Diptavo etc
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="publpics/iplotCorr.html">
-        <img src="./../assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="publpics/scca.html">
+        <img src="publpics/scca.jpeg" alt="ARCHIE" title="ARCHIE"/>
     </a>
   </td>
   <td class="right">
