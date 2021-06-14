@@ -7,14 +7,21 @@ description: Diptavo etc
 <table class="wide">
 <tr>
   <td class="left">
-    <br>Protein Quantitative Trait Loci</br>
-    <a href="publpics/scca.html">
+      <a href="publpics/scca.html">
         <img src="publpics/fineMap.png" width="325" height="325" alt="pQTL" title="pQTL"/>
     </a>
   </td>
   <td class="right">
-    <a href="publpics/rqtlexper_fig2.html">
-        <img src="publpics/GAUSS.png" alt="Broman (2014) Fig 2" title="Broman (2014) Fig 2"/>
+  	<a href="publpics/scca.html"> Protein Quantitative Trait Loci</a>
+  </td>
+ </tr>
+ <tr>
+  <td class="left">
+    <a href="publpics/scca.html"> Pathway-based Association Tests </a> 
+   </td>
+   <td class="left">
+    <a href="publpics/scca.html">
+        <img src="publpics/GAUSS.png" width="325" height="325" alt="GAUSS" title="GAUSS"/>
     </a>
   </td>
 </tr>
