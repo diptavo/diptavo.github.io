@@ -8,7 +8,7 @@ description: Diptavo etc
 <tr>
   <td class="left">
     <a href="publpics/scca.html">
-        <img src="publpics/scca.jpeg" alt="ARCHIE" title="ARCHIE"/>
+        <img src="publpics/scca.jpeg" width="300" height="300" alt="ARCHIE" title="ARCHIE"/>
     </a>
   </td>
   <td class="right">
