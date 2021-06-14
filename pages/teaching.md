@@ -16,14 +16,14 @@ description: Diptavo etc
   </td>
  </tr>
  <tr>
-  <td class="right">
-    <a href="publpics/scca.html"> Pathway-based Association Tests (GAUSS) </a> 
-   </td>
-   <td class="left">
+     <td class="left">
     <a href="publpics/scca.html">
         <img src="publpics/GAUSS.png" width="350" height="350" alt="GAUSS" title="GAUSS"/>
     </a>
   </td>
+  <td class="right">
+    <a href="publpics/scca.html"> Pathway-based Association Tests (GAUSS) </a> 
+   </td>
 </tr>
 <tr>
   <td class="left">
