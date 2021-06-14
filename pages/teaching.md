@@ -12,7 +12,10 @@ description: Diptavo etc
     </a>
   </td>
   <td class="right">
-  Understanding the genetic regulation of proteins levels can produce novel therapeutic targets for many traits and diseases. I have been involved in large-scale study of genetic regulation  of plasma proteins. <a href="publpics/scca.html"> <b>Read more</b></a>.
+ <b> Proteomics </b> 
+Understanding the genetic regulation of proteins levels can produce novel therapeutic targets
+<br> for many traits and diseases. I have been involved in large-scale study of genetic regulation  
+<br> of plasma proteins. <a href="publpics/scca.html"> <b>Read more</b></a>.
   </td>
  </tr>
  <tr>
