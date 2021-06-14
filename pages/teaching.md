@@ -7,8 +7,9 @@ description: Diptavo etc
 <table class="wide">
 <tr>
   <td class="left">
+    Protein Quantitative Trait Loci
     <a href="publpics/scca.html">
-        <img src="publpics/scca.jpeg" width="300" height="300" alt="ARCHIE" title="ARCHIE"/>
+        <img src="publpics/fineMap.png" width="300" height="300" alt="pQTL" title="pQTL"/>
     </a>
   </td>
   <td class="right">
