@@ -8,20 +8,20 @@ description: Diptavo etc
 <tr>
   <td class="left">
       <a href="publpics/scca.html">
-        <img src="publpics/fineMap.png" width="325" height="325" alt="pQTL" title="pQTL"/>
+        <img src="publpics/fineMap.png" width="350" height="350" alt="pQTL" title="pQTL"/>
     </a>
   </td>
   <td class="right">
-  	<a href="publpics/scca.html"> Protein Quantitative Trait Loci</a>
+  	<a href="publpics/scca.html"> <b>Protein Quantitative Trait Loci (pQTL)</b></a>
   </td>
  </tr>
  <tr>
-  <td class="left">
-    <a href="publpics/scca.html"> Pathway-based Association Tests </a> 
+  <td class="right">
+    <a href="publpics/scca.html"> Pathway-based Association Tests (GAUSS) </a> 
    </td>
    <td class="left">
     <a href="publpics/scca.html">
-        <img src="publpics/GAUSS.png" width="325" height="325" alt="GAUSS" title="GAUSS"/>
+        <img src="publpics/GAUSS.png" width="350" height="350" alt="GAUSS" title="GAUSS"/>
     </a>
   </td>
 </tr>
