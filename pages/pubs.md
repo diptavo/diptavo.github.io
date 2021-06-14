@@ -19,9 +19,9 @@ description: Diptavo Dutta's research work
 ### <a name="articles"></a> Publications
 
  
-Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Coresh, J. Proteins Associated with Risk of Kidney Function Decline in the General Population. *Journal of the American Society of Nephrology* (To appear).
+Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Coresh, J. Proteins Associated with Risk of Kidney Function Decline in the General Population. *Journal of the American Society of Nephrology*. 2021. (To appear).
 
-Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W. Genome Wide Association Study of Pelvic Organ Prolapse using the Michigan Genomics Initiative. *Female Pelvic Medicine & Reconstructive Surgery*. [Link](https://europepmc.org/article/med/34027909)
+Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W. Genome Wide Association Study of Pelvic Organ Prolapse using the Michigan Genomics Initiative. *Female Pelvic Medicine & Reconstructive Surgery*. 2021. [Link](https://europepmc.org/article/med/34027909)
 
  **Dutta, D.**, VandeHaar, P., Fritsche, L. G., Zollner, S., Boehnke, M., Scott, L. J., Lee, S. A powerful subset-based gene-set analysis method identifies novel associations and improves interpretation in UK Biobank. *The American Journal of Human Genetics*. 2021. 108(4) 669-681. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0002929721000586)
 
@@ -39,7 +39,7 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 **Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets.  2020. *Under Review* . [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v2)
 
-Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>,**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms. 2021. *Under Review*. [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v2)
+Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms. 2021. *Under Review*. [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v2)
 
 Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies. 2021. *Under revision in Nature Genetics*. [preprint on bioRXiv](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract)
 

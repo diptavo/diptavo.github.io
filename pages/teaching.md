@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Miscellaneous
+title: Research
 description: Diptavo etc
 ---
 
