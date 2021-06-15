@@ -6,29 +6,33 @@ description: Diptavo etc
 
 <table class="wide">
 <tr>
+     <td class="left">
+         <a href="publpics/scca.html">
+        <img src="publpics/GAUSS.png" width="375" height="375" alt="GAUSS" title="Genetic association tests"/>
+    </a>
+  </td>
+  <td class="right">
+    <font size="3.5" >
+ 	<b> Genetic Association Tests </b> <br>
+ 	<a href="publpics/scca.html"> <b>Read more</b></a>.
+ 	</font>
+    <a href="publpics/scca.html"> Read more</a> 
+   </td>
+</tr>
+<tr>
   <td class="left">
       <a href="publpics/scca.html">
-        <img src="publpics/fineMap.png" width="350" height="350" alt="pQTL" title="pQTL"/>
+        <img src="publpics/fineMap.png" width="375" height="375" alt="pQTL" title="pQTL"/>
     </a>
   </td>
   <td class="right">
   <font size="3.5" >
- <b> Proteomic Association Studies</b> <br>
- <a href="publpics/scca.html"> <b>Read more</b></a>.
+ <b> Protein Quantitative Trait Loci (pQTL)</b> <br>
+ <a href="publpics/scca.html"> <b>Read more</b></a>
  </font>
   </td>
  </tr>
  <tr>
-     <td class="left">
-    <a href="publpics/scca.html">
-        <img src="publpics/GAUSS.png" width="375" height="375" alt="GAUSS" title="GAUSS"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="publpics/scca.html"> Pathway-based Association Tests (GAUSS) </a> 
-   </td>
-</tr>
-<tr>
   <td class="left">
     <a href="publpics/samplemixups_fig7.html">
         <img src="./../assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
