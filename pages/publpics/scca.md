@@ -17,10 +17,9 @@ title: R/qtlcharts example
 <tr>
   <td class="left">
              <img src="publpics/trans.png" width="375" height="375" alt="trans-eQTL" title="trans-eQTL"/>
-    </a>
   </td>
   <td class="right">
-   <img src="publpics/scca.jpeg" width="375" height="375" alt="trans-eQTL" title="trans-eQTL"/> </td>
+   <img src="publpics/scca.jpeg" width="375" height="375" alt="scca" title="scca"/> </td>
  </tr>
 </table>
 
@@ -29,8 +28,3 @@ title: R/qtlcharts example
 
 </p>
 
-
-**Figure**. &mdash; Static view of an [interactive graph](http://kbroman.org/qtlcharts/example/iplotCorr.html)
-from [R/qtlcharts](http://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation
-matrix; click a pixel and the corresponding scatterplot is shown on
-the right.
