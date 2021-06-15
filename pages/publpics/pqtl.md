@@ -1,6 +1,6 @@
 ---
-layout: frontpage
-title: R/qtlcharts example
+layout: page
+title: Protein Quantitative Trait Loci (pQTL)
 ---
 
 <div class="navbar">
