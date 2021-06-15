@@ -12,7 +12,7 @@ description: Diptavo etc
     </a>
   </td>
   <td class="right">
-  <font size="2" >
+  <font size="3.5" >
  <b> Proteomic Association Studies</b> <br>
  <a href="publpics/scca.html"> <b>Read more</b></a>.
  </font>
@@ -21,7 +21,7 @@ description: Diptavo etc
  <tr>
      <td class="left">
     <a href="publpics/scca.html">
-        <img src="publpics/GAUSS.png" width="350" height="350" alt="GAUSS" title="GAUSS"/>
+        <img src="publpics/GAUSS.png" width="375" height="375" alt="GAUSS" title="GAUSS"/>
     </a>
   </td>
   <td class="right">
