@@ -38,7 +38,7 @@ description: Diptavo etc
  <tr>
   <td class="left">
       <a href="publpics/scca.html">
-        <img src="publpics/ftrans.png" width="375" height="375" alt="trans-eQTL" title="trans-eQTL"/>
+        <img src="publpics/trans.png" width="375" height="375" alt="trans-eQTL" title="trans-eQTL"/>
     </a>
   </td>
   <td class="right">
