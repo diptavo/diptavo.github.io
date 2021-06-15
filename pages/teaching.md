@@ -12,8 +12,8 @@ description: Diptavo etc
     </a>
   </td>
   <td class="right">
-  <font size="5" >
- <b> Genetic architecture of proteins and how the influence diseases</b> <br>
+  <font size="2" >
+ <b> Proteomic Association Studies</b> <br>
  <a href="publpics/scca.html"> <b>Read more</b></a>.
  </font>
   </td>
