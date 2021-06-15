@@ -15,8 +15,8 @@ description: Diptavo etc
   <td class="right">
   <font size="3.5" >
  <b> Trait-related Trans-regulation Patterns</b> <br>
- <a href="publpics/scca.html"> <b>Read more</b></a>
  </font>
+ <a href="publpics/scca.html"> <b>Read more</b></a>
   </td>
  </tr>
 
@@ -31,8 +31,8 @@ description: Diptavo etc
   <td class="right">
   <font size="3.5" >
  <b> Protein Quantitative Trait Loci (pQTL)</b> <br>
- <a href="publpics/scca.html"> <b>Read more</b></a>
  </font>
+ <a href="publpics/scca.html"> <b>Read more</b></a>
   </td>
  </tr>
  
@@ -48,8 +48,8 @@ description: Diptavo etc
   <td class="right">
     <font size="3.5" >
  	<b> Methods for Genetic Association Tests </b> <br>
+	</font>
  	<a href="publpics/scca.html"> <b>Read more</b></a>
- 	</font>
    </td>
 </tr>
 
@@ -63,8 +63,8 @@ description: Diptavo etc
   <td class="right">
   <font size="3.5" >
  <b> Causal Genetic Networks for Diseases</b> <br>
- <a href="publpics/scca.html"> <b>Read more</b></a>
  </font>
+ <a href="publpics/scca.html"> <b>Read more</b></a>
   </td>
  </tr>
 
@@ -78,8 +78,8 @@ description: Diptavo etc
   <td class="right">
   <font size="3.5" >
  <b> Collaborations</b> <br>
- <a href="publpics/scca.html"> <b>Read more</b></a>
  </font>
+ <a href="publpics/scca.html"> <b>Read more</b></a>
   </td>
  </tr>
 
