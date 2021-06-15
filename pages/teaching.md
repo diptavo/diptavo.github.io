@@ -18,6 +18,8 @@ description: Diptavo etc
  	</font>
    </td>
 </tr>
+
+
 <tr>
   <td class="left">
       <a href="publpics/scca.html">
@@ -31,18 +33,22 @@ description: Diptavo etc
  </font>
   </td>
  </tr>
+ 
+ 
  <tr>
   <td class="left">
-    <a href="publpics/samplemixups_fig7.html">
-        <img src="./../assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+      <a href="publpics/scca.html">
+        <img src="publpics/ftrans.png" width="375" height="375" alt="trans-eQTL" title="trans-eQTL"/>
     </a>
   </td>
   <td class="right">
-    <a href="publpics/isletc6_fig4.html">
-        <img src="../assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
-    </a>
+  <font size="3.5" >
+ <b> Trans-regulation by genetic variants</b> <br>
+ <a href="publpics/scca.html"> <b>Read more</b></a>
+ </font>
   </td>
-</tr>
+ </tr>
+ 
 </table>
 
 <div class="navbar">
