@@ -12,11 +12,10 @@ description: Diptavo etc
     </a>
   </td>
   <td class="right">
- <b> Proteomics </b> <br>
-Understanding the genetic regulation of proteins levels can produce
-<br> novel therapeutic targets for many traits and diseases. I have 
-<br> been involved in large-scale study of genetic regulation  
-<br> of plasma proteins. <a href="publpics/scca.html"> <b>Read more</b></a>.
+  <font size="10" >
+ <b> Genetic architecture of proteins and how the influence diseases</b> <br>
+ <a href="publpics/scca.html"> <b>Read more</b></a>.
+ </font>
   </td>
  </tr>
  <tr>
