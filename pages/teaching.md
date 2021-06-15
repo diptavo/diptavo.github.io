@@ -89,7 +89,7 @@ description: Diptavo etc
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="morefigs.html">see more figures</a></li>
+          <li><a href="https://diptavo.github.io/pages/pubs.html">See Publications</a></li>
       </ul>
   </div>
 </div>
