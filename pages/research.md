@@ -26,7 +26,7 @@ My research focuses towards devising novel statistical methods and tools for app
 
 <tr>
   <td class="left">
-      <a href="publpics/scca.html">
+      <a href="publpics/pqtl.html">
         <img src="publpics/fineMap.png" width="375" height="375" alt="pQTL" title="pQTL"/>
     </a>
   </td>
@@ -34,7 +34,7 @@ My research focuses towards devising novel statistical methods and tools for app
   <font size="3.5" >
  <b> Protein Quantitative Trait Loci (pQTL)</b> <br>
  </font>
- <a href="publpics/scca.html"> <b>Read more</b></a>
+ <a href="publpics/pqtl.html"> <b>Read more</b></a>
   </td>
  </tr>
  
