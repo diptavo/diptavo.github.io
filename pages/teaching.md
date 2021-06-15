@@ -43,11 +43,27 @@ description: Diptavo etc
   </td>
   <td class="right">
   <font size="3.5" >
- <b> Trans-regulation by genetic variants</b> <br>
+ <b> Trans-regulation by disease-related genetic variants</b> <br>
  <a href="publpics/scca.html"> <b>Read more</b></a>
  </font>
   </td>
  </tr>
+
+
+ <tr>
+  <td class="left">
+      <a href="publpics/scca.html">
+        <img src="publpics/causal.png" width="375" height="375" alt="causal networks" title="causal networks"/>
+    </a>
+  </td>
+  <td class="right">
+  <font size="3.5" >
+ <b> Causal Genetic Networks for Diseases</b> <br>
+ <a href="publpics/scca.html"> <b>Read more</b></a>
+ </font>
+  </td>
+ </tr>
+
  
 </table>
 
