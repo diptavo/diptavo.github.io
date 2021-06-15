@@ -43,7 +43,7 @@ description: Diptavo etc
   </td>
   <td class="right">
   <font size="3.5" >
- <b> Trans-regulation by disease-related genetic variants</b> 
+ <b> Trait-related Trans-regulation Patterns</b> 
  <a href="publpics/scca.html"> <b>Read more</b></a>
  </font>
   </td>
