@@ -16,7 +16,6 @@ description: Diptavo etc
  	<b> Genetic Association Tests </b> <br>
  	<a href="publpics/scca.html"> <b>Read more</b></a>.
  	</font>
-    <a href="publpics/scca.html"> Read more</a> 
    </td>
 </tr>
 <tr>
