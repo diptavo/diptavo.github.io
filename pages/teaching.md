@@ -13,8 +13,8 @@ description: Diptavo etc
   </td>
   <td class="right">
     <font size="3.5" >
- 	<b> Genetic Association Tests </b> <br>
- 	<a href="publpics/scca.html"> <b>Read more</b></a>.
+ 	<b> Methods for Genetic Association Tests </b> <br>
+ 	<a href="publpics/scca.html"> <b>Read more</b></a>
  	</font>
    </td>
 </tr>
