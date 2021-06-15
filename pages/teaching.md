@@ -5,19 +5,21 @@ description: Diptavo etc
 ---
 
 <table class="wide">
+
 <tr>
-     <td class="left">
-         <a href="publpics/scca.html">
-        <img src="publpics/GAUSS.png" width="375" height="375" alt="GAUSS" title="Genetic association tests"/>
+  <td class="left">
+      <a href="publpics/scca.html">
+        <img src="publpics/trans.png" width="375" height="375" alt="trans-eQTL" title="trans-eQTL"/>
     </a>
   </td>
   <td class="right">
-    <font size="3.5" >
- 	<b> Methods for Genetic Association Tests </b> <br>
- 	<a href="publpics/scca.html"> <b>Read more</b></a>
- 	</font>
-   </td>
-</tr>
+  <font size="3.5" >
+ <b> Trait-related Trans-regulation Patterns</b> <br>
+ <a href="publpics/scca.html"> <b>Read more</b></a>
+ </font>
+  </td>
+ </tr>
+
 
 
 <tr>
@@ -34,20 +36,22 @@ description: Diptavo etc
   </td>
  </tr>
  
- 
- <tr>
-  <td class="left">
-      <a href="publpics/scca.html">
-        <img src="publpics/trans.png" width="375" height="375" alt="trans-eQTL" title="trans-eQTL"/>
+
+
+
+<tr>
+     <td class="left">
+         <a href="publpics/scca.html">
+        <img src="publpics/GAUSS.png" width="375" height="375" alt="GAUSS" title="Genetic association tests"/>
     </a>
   </td>
   <td class="right">
-  <font size="3.5" >
- <b> Trait-related Trans-regulation Patterns</b> <br>
- <a href="publpics/scca.html"> <b>Read more</b></a>
- </font>
-  </td>
- </tr>
+    <font size="3.5" >
+ 	<b> Methods for Genetic Association Tests </b> <br>
+ 	<a href="publpics/scca.html"> <b>Read more</b></a>
+ 	</font>
+   </td>
+</tr>
 
 
  <tr>
@@ -59,6 +63,21 @@ description: Diptavo etc
   <td class="right">
   <font size="3.5" >
  <b> Causal Genetic Networks for Diseases</b> <br>
+ <a href="publpics/scca.html"> <b>Read more</b></a>
+ </font>
+  </td>
+ </tr>
+
+
+<tr>
+  <td class="left">
+      <a href="publpics/scca.html">
+        <img src="publpics/collab.png" width="375" height="375" alt="collab" title="collab"/>
+    </a>
+  </td>
+  <td class="right">
+  <font size="3.5" >
+ <b> Collaborations</b> <br>
  <a href="publpics/scca.html"> <b>Read more</b></a>
  </font>
   </td>
