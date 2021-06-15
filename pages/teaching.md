@@ -41,10 +41,12 @@ description: Diptavo etc
         <img src="publpics/trans.png" width="375" height="375" alt="trans-eQTL" title="trans-eQTL"/>
     </a>
   </td>
+  <td class="left">
   <font size="3.5" >
- <b> Trans-regulation by disease-related genetic variants</b> <br>
+ <b> Trans-regulation by disease-related genetic variants</b> 
  <a href="publpics/scca.html"> <b>Read more</b></a>
  </font>
+  </td>
  </tr>
 
 
