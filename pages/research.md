@@ -4,6 +4,8 @@ title: Research
 description: Diptavo etc
 ---
 
+My research focuses towards devising novel statistical methods and tools for applications in statistical genetics, genomics and in general biological datasets. Here're a few topics that I am interested in: 
+
 <table class="wide">
 
 <tr>
