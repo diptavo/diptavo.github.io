@@ -1,6 +1,6 @@
 ---
-layout: frontpage
-title: R/qtlcharts example
+layout: page
+title: Trait-related Trans-regulation Patterns
 ---
 
 <div class="navbar">
