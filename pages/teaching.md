@@ -12,7 +12,7 @@ description: Diptavo etc
     </a>
   </td>
   <td class="right">
-  <font size="10" >
+  <font size="5" >
  <b> Genetic architecture of proteins and how the influence diseases</b> <br>
  <a href="publpics/scca.html"> <b>Read more</b></a>.
  </font>
