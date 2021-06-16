@@ -6,8 +6,8 @@ title: Causal Genetic Networks for Diseases
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="assoc.html">prev</a></li>
-          <li><a href="collab.html">next</a></li>
+          <li><a href="assoc.html">Previous Topic</a></li>
+          <li><a href="collab.html">Next topic</a></li>
       </ul>
   </div>
 </div>
