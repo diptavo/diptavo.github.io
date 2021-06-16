@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Methods for Genetic Association Tests.
+title: Methods for Genetic Association Tests
 ---
 
 <div class="navbar">
