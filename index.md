@@ -1,8 +1,6 @@
 ---
 layout: frontpage
 title: Diptavo Dutta
-description: Diptavo Dutta is a Postdoctoral Fellow at Dept. of Biostatistics, Johns Hopkins University, currently involved in research in statistical genetics in Matthew Stephens Lab. Also involved in side projects on medical statistics, statistical nanosciences and MCMC. 
-keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCMC, nanosciences, 
 ---
 
 <div class="navbar">
