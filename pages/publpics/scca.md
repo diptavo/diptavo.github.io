@@ -6,8 +6,7 @@ title: Trait-related Trans-regulation Patterns
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="rqtlexper_fig1.html">prev</a></li>
-          <li><a href="pqtl.html">next</a></li>
+          <li><a href="pqtl.html">Next Topic</a></li>
       </ul>
   </div>
 </div>

@@ -6,8 +6,7 @@ title: Collaborations
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="causal.html">prev</a></li>
-          <li><a href="sccahtml">next</a></li>
+          <li><a href="causal.html">Previous Topic</a></li>
       </ul>
   </div>
 </div>

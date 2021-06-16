@@ -6,8 +6,8 @@ title: Protein Quantitative Trait Loci (pQTL)
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="scca.html">prev</a></li>
-          <li><a href="assoc.html">next</a></li>
+          <li><a href="scca.html">Previous Topic</a></li>
+          <li><a href="assoc.html">Next Topic</a></li>
       </ul>
   </div>
 </div>
