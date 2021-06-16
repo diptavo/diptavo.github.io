@@ -49,7 +49,7 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 
 - **January, 2021** Article on gene-set association analysis (GAUSS) accepted in *AJHG*
 
-
+#### Email: <diptavo21@jhu.edu> or <ddutta4@jhmi.edu>
 
 <!--
 
