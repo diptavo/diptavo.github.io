@@ -7,7 +7,7 @@ title: Protein Quantitative Trait Loci (pQTL)
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="scca.html">prev</a></li>
-          <li><a href="rqtlexper_fig2.html">next</a></li>
+          <li><a href="assoc.html">next</a></li>
       </ul>
   </div>
 </div>
