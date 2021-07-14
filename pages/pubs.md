@@ -39,7 +39,7 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 **Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets.  2020. *Under Revision in Nature Communications* . [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v2)
 
-Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms. 2021. *Under Review*. [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v2)
+Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms. 2021. *Under Revision in Genetic Epidemiology*. [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v2)
 
 Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies. 2021. *Under revision in Nature Genetics*. [preprint on bioRXiv](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract)
 
