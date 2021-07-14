@@ -37,7 +37,7 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 ### <a name="submitted"></a> Submitted and Preprints
 
-**Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets.  2020. *Under Review* . [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v2)
+**Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets.  2020. *Under Revision in Nature Communications* . [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v2)
 
 Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms. 2021. *Under Review*. [preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v2)
 
