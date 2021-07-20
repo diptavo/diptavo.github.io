@@ -21,7 +21,7 @@ description: Diptavo Dutta's research work
  
 Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Coresh, J. Proteins Associated with Risk of Kidney Function Decline in the General Population. *Journal of the American Society of Nephrology*. 2021. (To appear).
 
-Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W. Genome Wide Association Study of Pelvic Organ Prolapse using the Michigan Genomics Initiative. *Female Pelvic Medicine & Reconstructive Surgery*. 2021. [Link](https://europepmc.org/article/med/34027909)
+Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W. [Genome Wide Association Study of Pelvic Organ Prolapse using the Michigan Genomics Initiative](https://europepmc.org/article/med/34027909). *Female Pelvic Medicine & Reconstructive Surgery*. 2021.
 
  **Dutta, D.**, VandeHaar, P., Fritsche, L. G., Zollner, S., Boehnke, M., Scott, L. J., Lee, S. A powerful subset-based gene-set analysis method identifies novel associations and improves interpretation in UK Biobank. *The American Journal of Human Genetics*. 2021. 108(4) 669-681. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0002929721000586)
 
