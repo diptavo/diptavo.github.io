@@ -23,15 +23,15 @@ Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Co
 
 Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W. [Genome Wide Association Study of Pelvic Organ Prolapse using the Michigan Genomics Initiative](https://europepmc.org/article/med/34027909). *Female Pelvic Medicine & Reconstructive Surgery*. 2021.
 
- **Dutta, D.**, VandeHaar, P., Fritsche, L. G., Zollner, S., Boehnke, M., Scott, L. J., Lee, S. A powerful subset-based gene-set analysis method identifies novel associations and improves interpretation in UK Biobank. *The American Journal of Human Genetics*. 2021. 108(4) 669-681. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0002929721000586)
+ **Dutta, D.**, VandeHaar, P., Fritsche, L. G., Zollner, S., Boehnke, M., Scott, L. J., Lee, S. [A powerful subset-based gene-set analysis method identifies novel associations and improves interpretation in UK Biobank](https://www.sciencedirect.com/science/article/abs/pii/S0002929721000586). *The American Journal of Human Genetics*. 2021. 108(4) 669-681. 
 
-**Dutta, D.**, Brummett, C., Fritsche, L., Moser, S., Tsodikov, A., Lee, S., Clauw, D., Scott, L. (2020) Heritability of the fibromyalgia phenotype varies by age.*Arthritis & Rheumatology*. 2020. 72(5), 815-823. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/art.41171)
+**Dutta, D.**, Brummett, C., Fritsche, L., Moser, S., Tsodikov, A., Lee, S., Clauw, D., Scott, L. (2020) [Heritability of the fibromyalgia phenotype varies by age](https://onlinelibrary.wiley.com/doi/abs/10.1002/art.41171).*Arthritis & Rheumatology*. 2020. 72(5), 815-823.
 
-Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research Team, **Dutta, D.**, Glavaris, S., Keramati, A., Chatterjee, N., Chi, N. C., Ren, B., Post, W. S., Battle, A. Genome-wide association and multi-omic analyses reveal ACTN2 as a gene linked to heart failure. *Nature Communications*. 2020. 11(1), 1-12. [Link](https://www.nature.com/articles/s41467-020-14843-7)
+Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research Team, **Dutta, D.**, Glavaris, S., Keramati, A., Chatterjee, N., Chi, N. C., Ren, B., Post, W. S., Battle, A. [Genome-wide association and multi-omic analyses reveal ACTN2 as a gene linked to heart failure](https://www.nature.com/articles/s41467-020-14843-7). *Nature Communications*. 2020. 11(1), 1-12.
 
-**Dutta, D.**, Gagliano, S. A., Weinstock, J., Zawistowski, Sidore, C., Fritsche, L., M., Cucca, F., Schlessinger, D., Abecasis, G., Brummett, C.,  Lee. S. Meta-MultiSKAT: Region-based rare variant meta-analysis of multiple phenotypes using summary statistics. *Genetic Epidemiology*. 2019. 43(7), 800-814. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7006736/)
+**Dutta, D.**, Gagliano, S. A., Weinstock, J., Zawistowski, Sidore, C., Fritsche, L., M., Cucca, F., Schlessinger, D., Abecasis, G., Brummett, C.,  Lee. S. [Meta-MultiSKAT: Region-based rare variant meta-analysis of multiple phenotypes using summary statistics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7006736/). *Genetic Epidemiology*. 2019. 43(7), 800-814.
 
-**Dutta, D.**, Scott, L., Boehnke, M., Lee, S. Multi-SKAT: General framework to test multiple phenotype associations of rare variants.  *Genetic Epidemiology*. 2019. 43(1), 1-20. [Link](https://pubmed.ncbi.nlm.nih.gov/30298564/])
+**Dutta, D.**, Scott, L., Boehnke, M., Lee, S. [Multi-SKAT: General framework to test multiple phenotype associations of rare variants](https://pubmed.ncbi.nlm.nih.gov/30298564/]).  *Genetic Epidemiology*. 2019. 43(1), 1-20.
 
   
 
