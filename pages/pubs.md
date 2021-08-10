@@ -21,9 +21,9 @@ description: Diptavo Dutta's research work
  
 Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Coresh, J. Proteins Associated with Risk of Kidney Function Decline in the General Population. *Journal of the American Society of Nephrology*. 2021. (To appear).
 
-Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W. [Genome Wide Association Study of Pelvic Organ Prolapse using the Michigan Genomics Initiative](https://europepmc.org/article/med/34027909). *Female Pelvic Medicine & Reconstructive Surgery*. 2021.
+Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W. [Genome-Wide Association Study of Pelvic Organ Prolapse Using the Michigan Genomics Initiative](https://journals.lww.com/fpmrs/Abstract/2021/08000/Genome_Wide_Association_Study_of_Pelvic_Organ.7.aspx). *Female Pelvic Medicine & Reconstructive Surgery*. 2021. 27(8) 502-506.
 
- **Dutta, D.**, VandeHaar, P., Fritsche, L. G., Zollner, S., Boehnke, M., Scott, L. J., Lee, S. [A powerful subset-based gene-set analysis method identifies novel associations and improves interpretation in UK Biobank](https://www.sciencedirect.com/science/article/abs/pii/S0002929721000586). *The American Journal of Human Genetics*. 2021. 108(4) 669-681. 
+**Dutta, D.**, VandeHaar, P., Fritsche, L. G., Zollner, S., Boehnke, M., Scott, L. J., Lee, S. [A powerful subset-based gene-set analysis method identifies novel associations and improves interpretation in UK Biobank](https://www.sciencedirect.com/science/article/abs/pii/S0002929721000586). *The American Journal of Human Genetics*. 2021. 108(4) 669-681. 
 
 **Dutta, D.**, Brummett, C., Fritsche, L., Moser, S., Tsodikov, A., Lee, S., Clauw, D., Scott, L. (2020) [Heritability of the fibromyalgia phenotype varies by age](https://onlinelibrary.wiley.com/doi/abs/10.1002/art.41171).*Arthritis & Rheumatology*. 2020. 72(5), 815-823.
 
@@ -43,7 +43,7 @@ Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainicea
 
 Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract). 2021. *Under revision in Nature Genetics*.
 
-Rhee, E., Surapaneni, A., Zheng, Z., Zhou, L.,**Dutta, D.**, ... , Grams, M. E. A Trans-ethnic Genome-wide Association Study of Blood Metabolites in the Chronic Renal Insufficiency Cohort (CRIC) Study. 2021. *Under Review*.
+Rhee, E., Surapaneni, A., Zheng, Z., Zhou, L.,**Dutta, D.**, ... , Grams, M. E. A Trans-ethnic Genome-wide Association Study of Blood Metabolites in the Chronic Renal Insufficiency Cohort (CRIC) Study. 2021. *Under Revision in Kidney International*.
 
 Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N. I., Ganguli, A. Treatment Patterns and Survival in Patients with Glioblastoma Multiforme: A Retrospective Database Analysis Using US Electronic Health Records (EHR). 2019. *Under Review*.
 
@@ -53,7 +53,7 @@ Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N.
 
 **Dutta, D.** & Chatterjee, N. Fast and efficient liability model for binary phenotypes in Biobanks.
 
-**Dutta, D.**, Sen, A., Satagopan, J. Sparse canonical correlation identifies copy number variation-regulated genes for multiple breast cancer outcomes.
+**Dutta, D.**, Sen, A., Satagopan, J. Sparse canonical correlation identifies copy number aberration-regulated genes for multiple breast cancer outcomes.
 
 **Dutta, D.**, Zhang, J., ... , Chatterjee, N. Novel sparse canonical correlation analysis to identify trans-regulated protein networks associated with known complex trait variants.
 
