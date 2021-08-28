@@ -49,6 +49,8 @@ Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Large Bi-Ethnic Stu
 
 Rhee, E., Surapaneni, A., Zheng, Z., Zhou, L.,**Dutta, D.**, ... , Grams, M. E. A Trans-ethnic Genome-wide Association Study of Blood Metabolites in the Chronic Renal Insufficiency Cohort (CRIC) Study. 2021. *Under Revision in Kidney International*.
 
+Surapaneni, A., ... , **Dutta, D.**, ... , Grams, M. E. Novel protein quantitative trait loci identified in an African-American population with kidney disease. 2021.
+
 Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N. I., Ganguli, A. Treatment Patterns and Survival in Patients with Glioblastoma Multiforme: A Retrospective Database Analysis Using US Electronic Health Records (EHR). 2019. *Under Review*.
 
 <sup>1</sup>: Authors contributed equally
