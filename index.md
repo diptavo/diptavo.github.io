@@ -37,9 +37,9 @@ title: Diptavo Dutta
 
 ## News
 
-- **May, 2021** Collaborative article on GWAS of Pelvic Organ Prolapse Using the Michigan Genomics Initiative accepted in Female Pelvic Medicine & Reconstructive Surgery
+- **Sept, 2021** Collaborative [article](https://jasn.asnjournals.org/content/32/9/2291) on proteins associated with risk of kidney function decline now published in *JASN*
 
-- **April, 2021** Collaborative article on proteins associated with risk of kidney function decline accepted in *JASN*
+- **Aug, 2021** Collaborative [article](https://journals.lww.com/fpmrs/Abstract/2021/08000/Genome_Wide_Association_Study_of_Pelvic_Organ.7.aspx) on GWAS of Pelvic Organ Prolapse Using the Michigan Genomics Initiative published in Female Pelvic Medicine & Reconstructive Surgery
 
 -  **March, 2021** Preprint on Proteome-wide association models is out on [medRXiv](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract)
 
