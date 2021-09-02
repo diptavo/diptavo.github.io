@@ -25,7 +25,7 @@ Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W
 
 **Dutta, D.**, VandeHaar, P., Fritsche, L. G., Zollner, S., Boehnke, M., Scott, L. J., Lee, S. [A powerful subset-based gene-set analysis method identifies novel associations and improves interpretation in UK Biobank](https://www.sciencedirect.com/science/article/abs/pii/S0002929721000586). *The American Journal of Human Genetics*. 2021. 108(4) 669-681. 
 
-**Dutta, D.**, Brummett, C., Fritsche, L., Moser, S., Tsodikov, A., Lee, S., Clauw, D., Scott, L. (2020) [Heritability of the fibromyalgia phenotype varies by age](https://onlinelibrary.wiley.com/doi/abs/10.1002/art.41171).*Arthritis & Rheumatology*. 2020. 72(5), 815-823.
+**Dutta, D.**, Brummett, C., Fritsche, L., Moser, S., Tsodikov, A., Lee, S., Clauw, D., Scott, L. (2020) [Heritability of the fibromyalgia phenotype varies by age](https://onlinelibrary.wiley.com/doi/abs/10.1002/art.41171). *Arthritis & Rheumatology*. 2020. 72(5), 815-823.
 
 Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research Team, **Dutta, D.**, Glavaris, S., Keramati, A., Chatterjee, N., Chi, N. C., Ren, B., Post, W. S., Battle, A. [Genome-wide association and multi-omic analyses reveal ACTN2 as a gene linked to heart failure](https://www.nature.com/articles/s41467-020-14843-7). *Nature Communications*. 2020. 11(1), 1-12.
 
@@ -60,6 +60,8 @@ Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N.
 **Dutta, D.** & Chatterjee, N. Fast and efficient liability model for binary phenotypes in Biobanks.
 
 **Dutta, D.**, Zhang, J., ... , Chatterjee, N. Novel sparse canonical correlation analysis to identify trans-regulated protein networks associated with known complex trait variants.
+
+Surapaneni, A., Schlosser, P., ... , **Dutta, D.**, ... , Grams, M. E. Novel protein quantitative trait loci identified in an African-American population with kidney disease.
 
 Shabani, M.,**Dutta, D.**, ... , Lima, J. Rare genetic variants associated with Myocardial Fibrosis in Multi Ethnic Study of Atherosclerosis (MESA). [Link to Abstract](https://www.jacc.org/doi/full/10.1016/S0735-1097%2821%2902202-6)
 
