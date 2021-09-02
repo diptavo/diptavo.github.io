@@ -19,7 +19,7 @@ description: Diptavo Dutta's research work
 ### <a name="articles"></a> Publications
 
  
-Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Coresh, J. Proteins Associated with Risk of Kidney Function Decline in the General Population. *Journal of the American Society of Nephrology*. 2021. (To appear).
+Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Coresh, J. [Proteins Associated with Risk of Kidney Function Decline in the General Population](https://jasn.asnjournals.org/content/32/9/2291). *Journal of the American Society of Nephrology*. 2021. 32(9) 2291-2302.
 
 Cox, C. K., Zawitowski, M. , Pandit, A., **Dutta, D.**, Narla, G., Swenson, C. W. [Genome-Wide Association Study of Pelvic Organ Prolapse Using the Michigan Genomics Initiative](https://journals.lww.com/fpmrs/Abstract/2021/08000/Genome_Wide_Association_Study_of_Pelvic_Organ.7.aspx). *Female Pelvic Medicine & Reconstructive Surgery*. 2021. 27(8) 502-506.
 
