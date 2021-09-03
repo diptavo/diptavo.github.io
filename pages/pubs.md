@@ -43,9 +43,9 @@ Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainicea
 
 Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract). 2021. *Under revision in Nature Genetics*.
 
-**Dutta, D.**, Ray, D., Chatterjee, N. Genetic association tests with multiple phenotypes: A review of current methods. 2021. *Invited Review Article.*
-
 **Dutta, D.**, Sen, A., Satagopan, J. [Sparse canonical correlation to identify breast cancer related genes regulated by copy number aberrations](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1). 2021. *Under revision*
+
+**Dutta, D.**, Ray, D., Chatterjee, N. Genetic association tests with multiple phenotypes: A review of current methods. 2021. *Invited Review Article.*
 
 Rhee, E., Surapaneni, A., Zheng, Z., Zhou, L.,**Dutta, D.**, ... , Grams, M. E. A Trans-ethnic Genome-wide Association Study of Blood Metabolites in the Chronic Renal Insufficiency Cohort (CRIC) Study. 2021. *Under Revision in Kidney International*.
 
