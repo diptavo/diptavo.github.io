@@ -1,8 +1,6 @@
 ---
 layout: frontpage
 title: Diptavo Dutta
-description: Diptavo Dutta is a Postdoctoral Fellow at Dept. of Biostatistics, Johns Hopkins University, currently involved in research in statistical genetics in Matthew Stephens Lab. Also involved in side projects on medical statistics, statistical nanosciences and MCMC. 
-keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCMC, nanosciences, 
 ---
 
 <div class="navbar">
@@ -10,7 +8,7 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
       <ul class="nav">
       <!--    <li><a href="{{ BASE_PATH }}/assets/broman.pdf">cv</a></li>  -->
           <li><a href="https://github.com/diptavo">github</a></li>
-	  <li><a href="https://scholar.google.com/citations?user=0HmuYCUAAAAJ&hl=en">google_scholar</a></li>
+	  <li><a href="https://scholar.google.com/citations?user=0HmuYCUAAAAJ&hl=en">Google Scholar</a></li>
           <li><a href="https://twitter.com/Diptavo">@Diptavo</a></li>
       </ul>
   </div>
@@ -39,29 +37,20 @@ keywords: Dey, Structure, RNA-seq, ancient DNA, Metagenomics, Meta analysis, MCM
 
 ## News
 
-- **September 2018** : Starting as a Postdoctoral Researcher in Alkes Price Lab, Harvard Scool of Public Health.
+- **Sept, 2021** Collaborative [article](https://jasn.asnjournals.org/content/32/9/2291) on proteins associated with risk of kidney function decline now published in *JASN*
 
-- **May 22, 2018** : My preprint on model based inference and 
-visualization of ancient DNA damage patterns (with co-authors 
-Hussein Al-Asadi, John Novembre and Matthew Stephens) is now
-out ! Check [here](https://www.biorxiv.org/content/early/2018/05/21/327684).
+- **Aug, 2021** Collaborative [article](https://journals.lww.com/fpmrs/Abstract/2021/08000/Genome_Wide_Association_Study_of_Pelvic_Organ.7.aspx) on GWAS of Pelvic Organ Prolapse Using the Michigan Genomics Initiative published in Female Pelvic Medicine & Reconstructive Surgery
 
-- **May 11, 2018** : Presenting poster on `Black Magazines in 1960-1970s American History` at the Conference on New Aspect of Statistics, Financial Econometrics, and Data Science, to be held at Stevanovich Center, University of Chicago.
-[event details](https://stevanovichcenter.uchicago.edu/page/new-aspects-statistics-financial-econometrics-and-data-science).
+-  **March, 2021** Preprint on Proteome-wide association models is out on [medRXiv](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract)
 
-- **May 9, 2018**  : Presenting  at Graduate Arts, Science + Culture Collaboration grant event : [event details](https://arts.uchicago.edu/event/arts-science-culture-graduate-collaboration-grant-final-presentations-0).
+- **March, 2021** Initial version of the Shiny application on visualizing cis-associations and fine-mapping results of 2,000 proteins is released. [Check it out !](http://nilanjanchatterjeelab.org/pwas/)
 
-- **May 8, 2018**  : Presenting poster on `Black Magazines As a Mirror to 1960-1970s American History` at Mind Bytes: Research Computing Expo and Symposium. [event details](https://mindbytes.uchicago.edu/callforposters.php)
-
-- **May 1, 2018** :  Updated release versions of my packages [CountClust](https://bioconductor.org/packages/release/bioc/html/CountClust.html) and [Logolas](https://bioconductor.org/packages/release/bioc/html/Logolas.html) in Bioconductor 3.7. 
-
-- **April 30, 2018** : R package [Logolas](https://bioconductor.org/packages/release/bioc/html/Logolas.html) now among
-the top 5 % downloaded packages on Bioconductor !
-
-
-
-
-
+- **January, 2021** Article on gene-set association analysis (GAUSS) accepted in *AJHG*
+ <br>
+ <br>
+ <br>
+ <br>
+##### Email: <diptavo21@jhu.edu> or <ddutta4@jhmi.edu>
 
 <!--
 

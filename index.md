@@ -37,6 +37,8 @@ title: Diptavo Dutta
 
 ## News
 
+- **Sept, 2021** [Preprint](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1) on identifying genes associated with different breast cancer outcomes, regulated by copy number aberrations.  
+
 - **Sept, 2021** Collaborative [article](https://jasn.asnjournals.org/content/32/9/2291) on proteins associated with risk of kidney function decline now published in *JASN*
 
 - **Aug, 2021** Collaborative [article](https://journals.lww.com/fpmrs/Abstract/2021/08000/Genome_Wide_Association_Study_of_Pelvic_Organ.7.aspx) on GWAS of Pelvic Organ Prolapse Using the Michigan Genomics Initiative published in Female Pelvic Medicine & Reconstructive Surgery
