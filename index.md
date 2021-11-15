@@ -37,7 +37,7 @@ title: Diptavo Dutta
 
 ## News
 
-- **Nov, 2021** Research on Proteome-wide association studies accepted in *Nature Genetics*.
+- **Nov, 2021** Research on Proteome-wide association studies accepted in *Nature Genetics*. See [preprint](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v2)
 
 - **Sept, 2021** [Preprint](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1) on identifying genes associated with different breast cancer outcomes, regulated by copy number aberrations.  
 
