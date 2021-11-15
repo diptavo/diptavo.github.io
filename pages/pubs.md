@@ -18,6 +18,7 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Publications
 
+Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v2)
  
 Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Coresh, J. [Proteins Associated with Risk of Kidney Function Decline in the General Population](https://jasn.asnjournals.org/content/32/9/2291). *Journal of the American Society of Nephrology*. 2021. 32(9) 2291-2302.
 
@@ -40,8 +41,6 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 **Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. [Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v2).  2020. *Under Revision in Nature Communications*.
 
 Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. [Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v2). 2021. *Under Revision in Genetic Epidemiology*.
-
-Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract). 2021. *Under revision in Nature Genetics*.
 
 **Dutta, D.**, Sen, A., Satagopan, J. [Sparse canonical correlation to identify breast cancer related genes regulated by copy number aberrations](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1). 2021. *Under revision*
 
