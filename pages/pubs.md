@@ -18,7 +18,7 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Publications
 
-Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v2)
+Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v2). 2021. *Nature Genetics* (To appear).
  
 Grams, M. E., Surapaneni, A., Chen, J., Zhou, L., Yu, Z., **Dutta,D.**, ... , Coresh, J. [Proteins Associated with Risk of Kidney Function Decline in the General Population](https://jasn.asnjournals.org/content/32/9/2291). *Journal of the American Society of Nephrology*. 2021. 32(9) 2291-2302.
 
