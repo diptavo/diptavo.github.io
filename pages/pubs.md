@@ -42,11 +42,15 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. [Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v2). 2021. *Under Revision in Genetic Epidemiology*.
 
-**Dutta, D.**, Sen, A., Satagopan, J. [Sparse canonical correlation to identify breast cancer related genes regulated by copy number aberrations](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1). 2021. *Under revision*
+**Dutta, D.**, Sen, A., Satagopan, J. [Sparse canonical correlation to identify breast cancer related genes regulated by copy number aberrations](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1). 2021. *Under Review*
 
 **Dutta, D.**, Ray, D., Chatterjee, N. Genetic association tests with multiple phenotypes: A review of current methods. 2021. *Invited Review Article.*
 
 Rhee, E., Surapaneni, A., Zheng, Z., Zhou, L.,**Dutta, D.**, ... , Grams, M. E. A Trans-ethnic Genome-wide Association Study of Blood Metabolites in the Chronic Renal Insufficiency Cohort (CRIC) Study. 2021. *Under Revision in Kidney International*.
+
+Shabani, M.,**Dutta, D.**, ... , Lima, J. Rare genetic variants associated with Myocardial Fibrosis in Multi Ethnic Study of Atherosclerosis (MESA). [Link to Abstract](https://www.jacc.org/doi/full/10.1016/S0735-1097\%2821\%2902202-6). *Under Review*
+
+Maity, S., **Dutta, D.**, Terhorst, J., Sun, Y., Banerjee, M. [A linear adjustment based approach to posterior drift in transfer learning](https://arxiv.org/abs/2111.10841?context=stat). *Under Review*.
 
 Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N. I., Ganguli, A. Treatment Patterns and Survival in Patients with Glioblastoma Multiforme: A Retrospective Database Analysis Using US Electronic Health Records (EHR). 2020. *Under Review*.
 
@@ -60,7 +64,6 @@ Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N.
 
 Surapaneni, A., Schlosser, P., ... , **Dutta, D.**, ... , Grams, M. E. Novel protein quantitative trait loci identified in an African-American population with kidney disease.
 
-Shabani, M.,**Dutta, D.**, ... , Lima, J. Rare genetic variants associated with Myocardial Fibrosis in Multi Ethnic Study of Atherosclerosis (MESA). [Link to Abstract](https://www.jacc.org/doi/full/10.1016/S0735-1097%2821%2902202-6)
 
 Shabani, M., **Dutta, D.**, ... , Lima, J. Rare Genetic Variants in Individuals with Low ASCVD Risk and Hard CHD or High Coronary Artery Disease: Multi-Ethnic Study of Atherosclerosis.
 
