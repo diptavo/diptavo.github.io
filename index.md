@@ -37,6 +37,8 @@ title: Diptavo Dutta
 
 ## News
 
+- **Dec, 2021** [Preprint](https://arxiv.org/abs/2111.10841) on a transfer learning framework with applications on mortality prediction in the UKBiobank. 
+
 - **Dec, 2021** Research article on GWAS for 27 different accelerometry-derived phenotypes in UK Biobank now accepted in *Genetic Epidemiology*. See [preprint](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v3)
 
 - **Nov, 2021** Research article on Proteome-wide association studies accepted in *Nature Genetics*. See [preprint](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v2)
