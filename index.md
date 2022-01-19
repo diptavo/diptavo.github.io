@@ -41,15 +41,15 @@ title: Diptavo Dutta
 
 - **Dec, 2021** [Preprint](https://arxiv.org/abs/2111.10841) on a transfer learning framework with applications on mortality prediction in the UKBiobank
 
-- **Dec, 2021** Research article on GWAS for 27 different accelerometry-derived phenotypes in UK Biobank now accepted in *Genetic Epidemiology*. See [preprint](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v3)
+- **Dec, 2021** [Research article](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22441) on GWAS for 27 different accelerometry-derived phenotypes in UK Biobank now accepted in *Genetic Epidemiology*.
 
-- **Nov, 2021** Research article on Proteome-wide association studies accepted in *Nature Genetics*. See [preprint](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v2)
+- **Nov, 2021** [Research article](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v2) on Proteome-wide association studies accepted in *Nature Genetics*.
 
 - **Sept, 2021** [Preprint](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1) on identifying genes associated with different breast cancer outcomes, regulated by copy number aberrations.  
 
 - **Sept, 2021** [Research Article](https://jasn.asnjournals.org/content/32/9/2291) on proteins associated with risk of kidney function decline now published in *JASN*
 
-- **Aug, 2021** [Research Article](https://journals.lww.com/fpmrs/Abstract/2021/08000/Genome_Wide_Association_Study_of_Pelvic_Organ.7.aspx) on GWAS of Pelvic Organ Prolapse Using the Michigan Genomics Initiative published in Female Pelvic Medicine & Reconstructive Surgery
+- **Aug, 2021** [Research Article](https://journals.lww.com/fpmrs/Abstract/2021/08000/Genome_Wide_Association_Study_of_Pelvic_Organ.7.aspx) on GWAS of Pelvic Organ Prolapse Using the Michigan Genomics Initiative published in *Female Pelvic Medicine & Reconstructive Surgery*
 
 -  **March, 2021** Preprint on Proteome-wide association models is out on [medRXiv](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract)
 

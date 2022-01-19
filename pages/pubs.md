@@ -42,7 +42,7 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 ### <a name="submitted"></a> Submitted and Preprints
 
-**Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. [Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v2).  2020. *Under Revision in Nature Communications*.
+**Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. [Aggregative trans-eQTL analysis detects trait-specific target gene sets in whole blood](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v3).  2020. *Under Revision in Nature Communications*.
 
 **Dutta, D.**, Sen, A., Satagopan, J. [Sparse canonical correlation to identify breast cancer related genes regulated by copy number aberrations](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1). 2021. *Under Review*
 
