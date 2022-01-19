@@ -37,7 +37,9 @@ title: Diptavo Dutta
 
 ## News
 
-- **Dec, 2021** [Preprint](https://arxiv.org/abs/2111.10841) on a transfer learning framework with applications on mortality prediction in the UKBiobank. 
+- ** Jan, 2022** [Research Article](https://www.frontiersin.org/articles/10.3389/fcvm.2022.804788/abstract) on identifying rare variants associated with myocardial fibrosis accepted in Frontiers in Cardiovascular Medicine  
+
+- **Dec, 2021** [Preprint](https://arxiv.org/abs/2111.10841) on a transfer learning framework with applications on mortality prediction in the UKBiobank
 
 - **Dec, 2021** Research article on GWAS for 27 different accelerometry-derived phenotypes in UK Biobank now accepted in *Genetic Epidemiology*. See [preprint](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v3)
 
