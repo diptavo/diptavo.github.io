@@ -18,7 +18,9 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Publications
 
-Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. [Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms](https://www.medrxiv.org/content/10.1101/2021.02.15.21251499v2). 2021. *Genetic Epidemiology* (To appear).
+Shabani, M.,**Dutta, D.**, ... , Lima, J. [Rare genetic variants associated with Myocardial Fibrosis in Multi Ethnic Study of Atherosclerosis (MESA)](https://www.frontiersin.org/articles/10.3389/fcvm.2022.804788/abstract). *Frontiers in Cardiovascular Medicine*. 2022 (To appear).
+
+Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. [Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22441). *Genetic Epidemiology*. 2022 (To appear).
 
 Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v2). 2021. *Nature Genetics* (To appear).
  
@@ -47,8 +49,6 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 **Dutta, D.**, Ray, D., Chatterjee, N. Genetic association tests with multiple phenotypes: A review of current methods. 2021. *Invited Review Article*
 
 Rhee, E., Surapaneni, A., Zheng, Z., Zhou, L.,**Dutta, D.**, ... , Grams, M. E. A Trans-ethnic Genome-wide Association Study of Blood Metabolites in the Chronic Renal Insufficiency Cohort (CRIC) Study. 2021. *Under Revision in Kidney International*
-
-Shabani, M.,**Dutta, D.**, ... , Lima, J. Rare genetic variants associated with Myocardial Fibrosis in Multi Ethnic Study of Atherosclerosis (MESA). [Link to Abstract](https://www.jacc.org/doi/full/10.1016/S0735-1097\%2821\%2902202-6). *Under Review*
 
 Maity, S., **Dutta, D.**, Terhorst, J., Sun, Y., Banerjee, M. [A linear adjustment based approach to posterior drift in transfer learning](https://arxiv.org/abs/2111.10841?context=stat). *Under Review*
 
