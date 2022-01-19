@@ -37,7 +37,7 @@ title: Diptavo Dutta
 
 ## News
 
-- ** Jan, 2022** [Research Article](https://www.frontiersin.org/articles/10.3389/fcvm.2022.804788/abstract) on identifying rare variants associated with myocardial fibrosis accepted in Frontiers in Cardiovascular Medicine  
+- **Jan, 2022** [Research Article](https://www.frontiersin.org/articles/10.3389/fcvm.2022.804788/abstract) on identifying rare variants associated with myocardial fibrosis accepted in Frontiers in Cardiovascular Medicine  
 
 - **Dec, 2021** [Preprint](https://arxiv.org/abs/2111.10841) on a transfer learning framework with applications on mortality prediction in the UKBiobank
 
