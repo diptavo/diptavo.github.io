@@ -37,7 +37,7 @@ title: Diptavo Dutta
 
 ## News
 
-- **Jan, 2022** [Research Article](https://www.frontiersin.org/articles/10.3389/fcvm.2022.804788/abstract) on identifying rare variants associated with myocardial fibrosis accepted in Frontiers in Cardiovascular Medicine  
+- **Jan, 2022** [Research Article](https://www.frontiersin.org/articles/10.3389/fcvm.2022.804788/abstract) on identifying rare variants associated with myocardial fibrosis accepted in *Frontiers in Cardiovascular Medicine*  
 
 - **Dec, 2021** [Preprint](https://arxiv.org/abs/2111.10841) on a transfer learning framework with applications on mortality prediction in the UKBiobank
 
@@ -47,9 +47,9 @@ title: Diptavo Dutta
 
 - **Sept, 2021** [Preprint](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1) on identifying genes associated with different breast cancer outcomes, regulated by copy number aberrations.  
 
-- **Sept, 2021** Collaborative [article](https://jasn.asnjournals.org/content/32/9/2291) on proteins associated with risk of kidney function decline now published in *JASN*
+- **Sept, 2021** [Research Article](https://jasn.asnjournals.org/content/32/9/2291) on proteins associated with risk of kidney function decline now published in *JASN*
 
-- **Aug, 2021** Collaborative [article](https://journals.lww.com/fpmrs/Abstract/2021/08000/Genome_Wide_Association_Study_of_Pelvic_Organ.7.aspx) on GWAS of Pelvic Organ Prolapse Using the Michigan Genomics Initiative published in Female Pelvic Medicine & Reconstructive Surgery
+- **Aug, 2021** [Research Article](https://journals.lww.com/fpmrs/Abstract/2021/08000/Genome_Wide_Association_Study_of_Pelvic_Organ.7.aspx) on GWAS of Pelvic Organ Prolapse Using the Michigan Genomics Initiative published in Female Pelvic Medicine & Reconstructive Surgery
 
 -  **March, 2021** Preprint on Proteome-wide association models is out on [medRXiv](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract)
 
