@@ -22,7 +22,7 @@ description: Diptavo Dutta's research work
 
 Rhee, E., Surapaneni, A., Zheng, Z., Zhou, L.,**Dutta, D.**, ... , Grams, M. E. [A Trans-ethnic Genome-wide Association Study of Blood Metabolites in the Chronic Renal Insufficiency Cohort (CRIC) Study](https://www.sciencedirect.com/science/article/abs/pii/S0085253822000837). *Kidney International*. 2022. 101(4) 814-823.
 
-Shabani, M.,**Dutta, D.**, ... , Lima, J. [Rare genetic variants associated with Myocardial Fibrosis in Multi Ethnic Study of Atherosclerosis (MESA)](https://www.frontiersin.org/articles/10.3389/fcvm.2022.804788/abstract). *Frontiers in Cardiovascular Medicine*. 2022 9:804788.
+Shabani, M.,**Dutta, D.**, ... , Lima, J. [Rare genetic variants associated with Myocardial Fibrosis in Multi Ethnic Study of Atherosclerosis (MESA)](https://www.frontiersin.org/articles/10.3389/fcvm.2022.804788/abstract). *Frontiers in Cardiovascular Medicine*. 2022. 9:804788.
 
 Qi, G. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, Leroux, A., Ray, D., Crainiceanu, C., Chatterjee, N. [Genome-wide association studies of 27 accelerometry-derived physical activity measurements identifies novel loci and genetic mechanisms](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22441). *Genetic Epidemiology*. 2022. 46(2) 122-138.
 
