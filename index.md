@@ -37,7 +37,7 @@ title: Diptavo Dutta
 
 ## News
 
-- **Mar, 2022**[Research Article](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v3) on a novel sparse canonical correlation based method to identify gene networks trans-regulated by disease-related genetic variant accepted in *Nature Communications*
+- **Mar, 2022** [Research Article](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v3) on a novel sparse canonical correlation based method to identify gene networks trans-regulated by disease-related genetic variant accepted in *Nature Communications*
 
 - **Jan, 2022** [Research Article](https://www.sciencedirect.com/science/article/abs/pii/S0085253822000837) on trans-ethnic GWAS of blood metabolites in the CRIC study accepted in *Kidney International*  
 
