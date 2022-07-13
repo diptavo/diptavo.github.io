@@ -34,13 +34,13 @@ title: Diptavo Dutta
 </tr>
 </table>
 
-<font size="+2">
 ## Announcements
 
 In Fall 2022, I will be starting as [Earl Stadtman Tenure Track investigator](https://irp.nih.gov/careers/trans-nih-scientific-recruitments/stadtman-tenure-track-investigators/science-the-stadtman-way) at the [Integrative Tumor Epidemiology Branch](https://dceg.cancer.gov/about/organization/tdrp/iteb) of the [Division of Cancer Epidemiology \& Genetics](https://dceg.cancer.gov/) at the [National Cancer Institute](https://www.cancer.gov/).
-</font>
 
 ## News
+
+- **May, 2021** [Research article](https://www.nature.com/articles/s41588-022-01051-w) on Proteome-wide association studies published in *Nature Genetics*. Check out the related results and visualization of more than 1,500 plasma proteins [Results](http://nilanjanchatterjeelab.org/pwas/). 
 
 - **Mar, 2022** [Research Article](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v3) on a novel sparse canonical correlation based method to identify gene networks trans-regulated by disease-related genetic variant accepted in *Nature Communications*
 
@@ -49,16 +49,6 @@ In Fall 2022, I will be starting as [Earl Stadtman Tenure Track investigator](ht
 - **Jan, 2022** [Research Article](https://www.frontiersin.org/articles/10.3389/fcvm.2022.804788/abstract) on identifying rare variants associated with myocardial fibrosis accepted in *Frontiers in Cardiovascular Medicine*  
 
 - **Dec, 2021** [Preprint](https://arxiv.org/abs/2111.10841) on a transfer learning framework with applications on mortality prediction in the UKBiobank
-
-- **Dec, 2021** [Research article](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22441) on GWAS for 27 different accelerometry-derived phenotypes in UK Biobank now accepted in *Genetic Epidemiology*.
-
-- **Nov, 2021** [Research article](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v2) on Proteome-wide association studies accepted in *Nature Genetics*.
-
-- **Sept, 2021** [Preprint](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1) on identifying genes associated with different breast cancer outcomes, regulated by copy number aberrations.  
-
-- **Sept, 2021** [Research Article](https://jasn.asnjournals.org/content/32/9/2291) on proteins associated
-
-- **March, 2021** Initial version of the Shiny application on visualizing cis-associations and fine-mapping results of 2,000 proteins is released. [Check it out !](http://nilanjanchatterjeelab.org/pwas/)
 
  <br>
  <br>
