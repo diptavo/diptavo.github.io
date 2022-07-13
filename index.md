@@ -34,6 +34,10 @@ title: Diptavo Dutta
 </tr>
 </table>
 
+## Announcements
+
+In Fall 2022, I will be starting as [Earl Stadtman Tenure Track investigator](https://irp.nih.gov/careers/trans-nih-scientific-recruitments/stadtman-tenure-track-investigators/science-the-stadtman-way) at the [Integrative Tumor Epidemiology Branch](https://dceg.cancer.gov/about/organization/tdrp/iteb) of the [Division of Cancer Epidemiology \& Genetics](https://dceg.cancer.gov/) at the [National Cancer Institute](https://www.cancer.gov/).
+
 
 ## News
 
@@ -51,15 +55,10 @@ title: Diptavo Dutta
 
 - **Sept, 2021** [Preprint](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1) on identifying genes associated with different breast cancer outcomes, regulated by copy number aberrations.  
 
-- **Sept, 2021** [Research Article](https://jasn.asnjournals.org/content/32/9/2291) on proteins associated with risk of kidney function decline now published in *JASN*
-
-- **Aug, 2021** [Research Article](https://journals.lww.com/fpmrs/Abstract/2021/08000/Genome_Wide_Association_Study_of_Pelvic_Organ.7.aspx) on GWAS of Pelvic Organ Prolapse Using the Michigan Genomics Initiative published in *Female Pelvic Medicine & Reconstructive Surgery*
-
--  **March, 2021** Preprint on Proteome-wide association models is out on [medRXiv](https://www.biorxiv.org/content/10.1101/2021.03.15.435533v1.abstract)
+- **Sept, 2021** [Research Article](https://jasn.asnjournals.org/content/32/9/2291) on proteins associated
 
 - **March, 2021** Initial version of the Shiny application on visualizing cis-associations and fine-mapping results of 2,000 proteins is released. [Check it out !](http://nilanjanchatterjeelab.org/pwas/)
 
-- **January, 2021** Article on gene-set association analysis (GAUSS) accepted in *AJHG*
  <br>
  <br>
  <br>
