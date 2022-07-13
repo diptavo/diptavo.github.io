@@ -22,7 +22,7 @@ description: Diptavo Dutta's research work
 
 Surapaneni, A., Schlosser, P., ... , **Dutta, D.**, ... , Grams, M. E. 969 protein quantitative trait loci identified in an African-American population with kidney disease. *Kidney International* (To appear).
 
-Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Large Bi-Ethnic Study of Plasma Proteome Leads to Comprehensive Mapping of cis-pQTL and Models for Proteome-wide Association Studies](https://www.nature.com/articles/s41588-022-01051-w). *Nature Genetics*. 2022. 54 593-602.
+Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Plasma proteome analyses in individuals of European and African ancestry identify cis-pQTLs and models for proteome-wide association studies](https://www.nature.com/articles/s41588-022-01051-w). *Nature Genetics*. 2022. 54 593-602.
 
 Rhee, E., Surapaneni, A., Zheng, Z., Zhou, L., **Dutta, D.**, ... , Grams, M. E. [A Trans-ethnic Genome-wide Association Study of Blood Metabolites in the Chronic Renal Insufficiency Cohort (CRIC) Study](https://www.sciencedirect.com/science/article/abs/pii/S0085253822000837). *Kidney International*. 2022. 101(4) 814-823.
 
