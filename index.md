@@ -40,7 +40,7 @@ In Fall 2022, I will be starting as [Earl Stadtman Tenure Track investigator](ht
 
 ## News
 
-- **May, 2021** [Research article](https://www.nature.com/articles/s41588-022-01051-w) on Proteome-wide association studies published in *Nature Genetics*. Check out the related results and visualization of more than 1,500 plasma proteins [here](http://nilanjanchatterjeelab.org/pwas/). 
+- **May, 2022** [Research article](https://www.nature.com/articles/s41588-022-01051-w) on Proteome-wide association studies published in *Nature Genetics*. Check out the related results and visualization of more than 1,500 plasma proteins [here](http://nilanjanchatterjeelab.org/pwas/). 
 
 - **Mar, 2022** [Research Article](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v3) on a novel sparse canonical correlation based method to identify gene networks trans-regulated by disease-related genetic variant accepted in *Nature Communications*
 
