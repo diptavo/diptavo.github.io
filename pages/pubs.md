@@ -44,7 +44,7 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 **Dutta, D.**, Scott, L., Boehnke, M., Lee, S. [Multi-SKAT: General framework to test multiple phenotype associations of rare variants](https://pubmed.ncbi.nlm.nih.gov/30298564/]).  *Genetic Epidemiology*. 2019. 43(1), 1-20.
 
-  
+ <sup>1</sup>: Authors contributed equally 
 
 ### <a name="submitted"></a> Submitted and Preprints
 
@@ -58,7 +58,6 @@ Maity, S., **Dutta, D.**, Terhorst, J., Sun, Y., Banerjee, M. [A linear adjustme
 
 Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N. I., Ganguli, A. Treatment Patterns and Survival in Patients with Glioblastoma Multiforme: A Retrospective Database Analysis Using US Electronic Health Records (EHR). 2020. *Under Review*
 
-<sup>1</sup>: Authors contributed equally
 
 ### <a name="Working"></a> Articles in preparation
 
@@ -67,8 +66,6 @@ Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N.
 **Dutta, D.**, Zhang, J., ... , Chatterjee, N. Novel sparse canonical correlation analysis to identify trans-regulated protein networks associated with known complex trait variants.
 
 Shabani, M., **Dutta, D.**, ... , Lima, J. Rare Genetic Variants in Individuals with Low ASCVD Risk and Hard CHD or High Coronary Artery Disease: Multi-Ethnic Study of Atherosclerosis.
-
-
 
 Chhetri, S., **Dutta, D.**, ... , Battle, A. A colocalization approach to determine shared heritability of diseases across ethnicities
 
