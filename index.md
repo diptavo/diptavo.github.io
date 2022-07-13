@@ -34,10 +34,11 @@ title: Diptavo Dutta
 </tr>
 </table>
 
+<font size="+2">
 ## Announcements
 
 In Fall 2022, I will be starting as [Earl Stadtman Tenure Track investigator](https://irp.nih.gov/careers/trans-nih-scientific-recruitments/stadtman-tenure-track-investigators/science-the-stadtman-way) at the [Integrative Tumor Epidemiology Branch](https://dceg.cancer.gov/about/organization/tdrp/iteb) of the [Division of Cancer Epidemiology \& Genetics](https://dceg.cancer.gov/) at the [National Cancer Institute](https://www.cancer.gov/).
-
+</font>
 
 ## News
 
