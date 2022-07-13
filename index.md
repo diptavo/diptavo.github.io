@@ -7,7 +7,7 @@ title: Diptavo Dutta
   <div class="navbar-inner">
       <ul class="nav">
       <!--    <li><a href="{{ BASE_PATH }}/assets/broman.pdf">cv</a></li>  -->
-          <li><a href="https://github.com/diptavo">github</a></li>
+          <li><a href="https://github.com/diptavo">GitHub</a></li>
 	  <li><a href="https://scholar.google.com/citations?user=0HmuYCUAAAAJ&hl=en">Google Scholar</a></li>
           <li><a href="https://twitter.com/Diptavo">@Diptavo</a></li>
       </ul>
