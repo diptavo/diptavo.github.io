@@ -18,9 +18,9 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Publications
 
-**Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. [Aggregative trans-eQTL analysis detects trait-specific target gene sets in whole blood](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v3).  2022. *Nature Communications* (To appear).
+**Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. [Aggregative trans-eQTL analysis detects trait-specific target gene sets in whole blood](https://www.nature.com/articles/s41467-022-31845-9). *Nature Communications*. 2022. 13, 4323.
 
-Surapaneni, A., Schlosser, P., ... , **Dutta, D.**, ... , Grams, M. E. 969 protein quantitative trait loci identified in an African-American population with kidney disease. *Kidney International* (To appear).
+Surapaneni, A., Schlosser, P., ... , **Dutta, D.**, ... , Grams, M. E. [Identification of 969 protein quantitative trait loci in an African American population with kidney disease attributed to hypertension](https://www.sciencedirect.com/science/article/abs/pii/S0085253822005476). *Kidney International*. 2022.
 
 Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Plasma proteome analyses in individuals of European and African ancestry identify cis-pQTLs and models for proteome-wide association studies](https://www.nature.com/articles/s41588-022-01051-w). *Nature Genetics*. 2022. 54 593-602.
 
