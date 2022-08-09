@@ -21,9 +21,10 @@ title: Diptavo Dutta
 </td>
 <td class="left">
 <br><b> Diptavo Dutta </b>
-<br> Postdoctoral Fellow
-<br> Departments of Biostatistics & Biomedical Engineering
-<br> Jonhs Hopkins University
+<br> Tenure Track Investigator
+<br> Integrative Tumor Epidemiology Branch
+<br> Division of Cancer Epidemiology and Genetics
+<br> National Cancer Institute
 <br>
 <br> <b> Research Interest </b>: Statistical Genetics, GWAS,
                 <br>  eQTL, multi-omics, Mixed Models,
