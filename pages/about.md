@@ -6,6 +6,11 @@ description: Diptavo Dutta short academic biography
 
 <p align="justify">
 
+- Current Position: Earl Stadtman Tenure Track Investigator, 
+[Integrative Tumor Epidemiology Branch](https://dceg.cancer.gov/about/organization/tdrp/iteb)
+[Division of Cancer Epidemiology & Genetics](https://dceg.cancer.gov/), 
+[National Cancer Institute](https://www.cancer.gov/).
+
 I am a <b>Postdoctoral Fellow</b> (2019 - Present) in <a href="https://www.jhsph.edu/departments/biostatistics/">Departments of Biostatistics</a> & <a href="https://www.bme.jhu.edu/">Biomedical Engineering</a> at the Bloomberg School of Public Health, <a href="https://www.jhu.edu/">Johns Hopkins University</a>. My advisors are <a href="https://www.jhsph.edu/faculty/directory/profile/1826/nilanjan-chatterjee">Nilanjan Chatterjee</a>  and <a href="https://www.bme.jhu.edu/people/faculty/alexis-battle">Alexis Battle</a>. I also collaborate closely with faculty from Department of Epidemiology and School of Medicine at JHU. My research interests lie in novel statistical methodologies for broad applications in Statistical Genetics, Genome-wide Association Studies (GWAS), Transcriptomics and Proteomics, Multi-Omics Data Integration and Disease Risk Prediction. See my <a href="https://diptavo.github.io/pages/research.html">research interests </a> and <a href="https://diptavo.github.io/pages/pubs.html">recent publications</a> for more information on my current and past work.
 
 </p>
