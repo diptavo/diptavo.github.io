@@ -5,9 +5,11 @@ description: Diptavo Dutta short academic biography
 ---
 
 
-- Current Position: Earl Stadtman Tenure Track Investigator, 
-[Integrative Tumor Epidemiology Branch](https://dceg.cancer.gov/about/organization/tdrp/iteb)
-[Division of Cancer Epidemiology & Genetics](https://dceg.cancer.gov/), 
+##Current Position
+
+Earl Stadtman Tenure Track Investigator <br/>
+[Integrative Tumor Epidemiology Branch](https://dceg.cancer.gov/about/organization/tdrp/iteb) <br/>
+[Division of Cancer Epidemiology & Genetics](https://dceg.cancer.gov/) <br/> 
 [National Cancer Institute](https://www.cancer.gov/).
 
 <p align="justify">
@@ -21,6 +23,7 @@ See my <a href="https://diptavo.github.io/pages/research.html">research interest
 <p></p>
 <p></p>
 
+## Past Positions
 
 <p align="justify">
 
@@ -50,15 +53,6 @@ Before my doctoral studies, I earned a <b>Masters in Statistics (M.Stat)</b> in 
 
 You can find my current CV here. [![pdf](icons16/pdf-icon.png)](CV_DD.pdf) *Updated May, 2022*.
 
-<!--
-
-<p></p>
-
-<td class="left">
-    <img id="frontphoto" src="wordcloud.svg" width="500" height="500" alt="" />
-</td>
-
--->
 
 <div class="container">
 <h4><a name="Contact"></a>Contact</h4>
@@ -67,12 +61,12 @@ You can find my current CV here. [![pdf](icons16/pdf-icon.png)](CV_DD.pdf) *Upda
         <div class="span5">
            Diptavo Dutta<br/>
             <a href="https://www.jhsph.edu/departments/biostatistics/">Department of Biostatistics</a><br/>
-            Bloomberg School of Public Health<br/>
-            Johns Hopkins University<br/>
-            615 N Wolfe Street, E3001<br/>
-            Baltimore, MD 21205<br/>
+            National Cancer Institute<br/>
+            Shady Grove Campus<br/>
+            9609 Medical Center Drive, 7E236<br/>
+            Rockville, MD 20850<br/>
             USA<br/>
-	    Email: diptavo21@jhu.edu, dutta.diptavo@gmail.com<br/>
+	    Email: diptavo.dutta@nih.gov, dutta.diptavo@gmail.com<br/>
         </div>
     </div>
 </div>
