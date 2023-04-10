@@ -37,19 +37,19 @@ title: Diptavo Dutta
 
 ## Announcements
 
-I am seeking a motivated postdoc candidate to join my lab. Research projects are available on diverse projects, including disease genetics, genetics of molecular phenotypes and rare variation analysis. [**Email me**]<diptavo.dutta@nih.gov> with a current CV, including publications and research experience. Diverse quantitative expertise will be considered, from machine learning methods to statistical genetics and bioinformatics.
+- I am seeking a motivated postdoc candidate to join my lab. Research projects are available on diverse projects, including disease genetics, genetics of molecular phenotypes and rare variation analysis. **Email me** at: <diptavo.dutta@nih.gov> with a current CV, including publications and research experience. Diverse quantitative expertise will be considered, from machine learning methods to statistical genetics and bioinformatics.
+
+- I am seeking a masters level research analyst/Bioinformatician to join my lab. See job details and how to apply [here](https://dceg.cancer.gov/about/careers/current-openings/bioinformatics-scientist-iteb).
 
 ## News
 
+- **Jan, 2023** [Preprint](https://www.medrxiv.org/content/10.1101/2023.01.11.23284454v1) on subset based meta analysis for cross-tissue transcriptome-wide association studies led by [Xinyu (Brian) Guo](https://www.brian-guo.com/) is now available online. 
+
+- **Dec, 2022** [Research article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276886) on association of copy number variations and gene expressions in context of breast cancer related outcomes, published in *Plos One*.
+
+-  **Aug, 2022** Started as Earl Stadtman Tenure Track Investigator at the Division of Cancer Epidemiology \& Genetics, National Cancer Institute.
+
 - **May, 2022** [Research article](https://www.nature.com/articles/s41588-022-01051-w) on Proteome-wide association studies published in *Nature Genetics*. Check out the related results and visualization of more than 1,500 plasma proteins [here](http://nilanjanchatterjeelab.org/pwas/). 
-
-- **Mar, 2022** [Research Article](https://www.medrxiv.org/content/10.1101/2020.09.29.20204388v3) on a novel sparse canonical correlation based method to identify gene networks trans-regulated by disease-related genetic variant accepted in *Nature Communications*
-
-- **Jan, 2022** [Research Article](https://www.sciencedirect.com/science/article/abs/pii/S0085253822000837) on trans-ethnic GWAS of blood metabolites in the CRIC study accepted in *Kidney International*  
-
-- **Jan, 2022** [Research Article](https://www.frontiersin.org/articles/10.3389/fcvm.2022.804788/abstract) on identifying rare variants associated with myocardial fibrosis accepted in *Frontiers in Cardiovascular Medicine*  
-
-- **Dec, 2021** [Preprint](https://arxiv.org/abs/2111.10841) on a transfer learning framework with applications on mortality prediction in the UKBiobank
 
  <br>
  <br>
