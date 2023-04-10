@@ -59,7 +59,6 @@ You can find my current CV here. [![pdf](icons16/pdf-icon.png)](CV_DD.pdf) *Upda
     <div class="row-fluid">
         <div class="span5">
            Diptavo Dutta<br/>
-            <a href="https://www.jhsph.edu/departments/biostatistics/">Department of Biostatistics</a><br/>
             National Cancer Institute<br/>
             Shady Grove Campus<br/>
             9609 Medical Center Drive, 7E236<br/>
