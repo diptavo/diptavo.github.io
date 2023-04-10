@@ -35,7 +35,7 @@ title: Diptavo Dutta
 </tr>
 </table>
 
-<p align="justify">
+
 
 ## Announcements
 
@@ -43,7 +43,6 @@ title: Diptavo Dutta
 
 - I am seeking a masters level research analyst/Bioinformatician to join my lab. See job details and how to apply [here](https://dceg.cancer.gov/about/careers/current-openings/bioinformatics-scientist-iteb).
 
-</p>
 
 ## News
 
