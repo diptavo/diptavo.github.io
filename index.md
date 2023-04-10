@@ -47,7 +47,7 @@ title: Diptavo Dutta
 
 - **Dec, 2022** [Research article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276886) on association of copy number variations and gene expressions in context of breast cancer related outcomes, published in *Plos One*.
 
--  **Aug, 2022** Started as Earl Stadtman Tenure Track Investigator at the Division of Cancer Epidemiology \& Genetics, National Cancer Institute.
+-  **Aug, 2022** Started as Earl Stadtman Tenure Track Investigator at the [Division of Cancer Epidemiology & Genetics](https://dceg.cancer.gov/), [National Cancer Institute](https://www.cancer.gov/).
 
 - **May, 2022** [Research article](https://www.nature.com/articles/s41588-022-01051-w) on Proteome-wide association studies published in *Nature Genetics*. Check out the related results and visualization of more than 1,500 plasma proteins [here](http://nilanjanchatterjeelab.org/pwas/). 
 

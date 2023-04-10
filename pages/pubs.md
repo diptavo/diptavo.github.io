@@ -52,13 +52,11 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 ### <a name="submitted"></a> Submitted and Preprints
 
+Guo, X., Chatterjee, N., **Dutta, D**. [Subset-based method for cross-tissue transcriptome-wide association studies improves power and interpretability](https://www.medrxiv.org/content/10.1101/2023.01.11.23284454v1). 2023.
+
 Qi, G., **Dutta, D.**, ... , Chatterjee, N. [A large-scale pleiotropic analysis identifies trait-specific loci and functional mechanisms](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1.abstract). 2022. *Under Review*.
 
 **Dutta, D.**, Ray, D., Chatterjee, N. Genetic association tests with multiple phenotypes: A review of current methods. 2021. *Invited Review Article*
-
-Maity, S., **Dutta, D.**, Terhorst, J., Sun, Y., Banerjee, M. [A linear adjustment based approach to posterior drift in transfer learning](https://arxiv.org/abs/2111.10841?context=stat). *Under Review*
-
-Kumthekar, P., Dixit, K. S., Kamalakar, R., **Dutta, D.**, Holen, K., Shaikh, N. I., Ganguli, A. Treatment Patterns and Survival in Patients with Glioblastoma Multiforme: A Retrospective Database Analysis Using US Electronic Health Records (EHR). 2020. *Under Review*
 
 
 ### <a name="Working"></a> Articles in preparation
