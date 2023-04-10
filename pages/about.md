@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Bio
+title: Current Position
 description: Diptavo Dutta short academic biography
 ---
 
 
-##Current Position
 
 Earl Stadtman Tenure Track Investigator <br/>
 [Integrative Tumor Epidemiology Branch](https://dceg.cancer.gov/about/organization/tdrp/iteb) <br/>
