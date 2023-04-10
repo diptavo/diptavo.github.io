@@ -6,7 +6,7 @@ description: Diptavo Dutta short academic biography
 
 
 
-** Earl Stadtman Tenure Track Investigator** <br/>
+**Earl Stadtman Tenure Track Investigator** <br/>
 [Integrative Tumor Epidemiology Branch](https://dceg.cancer.gov/about/organization/tdrp/iteb) <br/>
 [Division of Cancer Epidemiology & Genetics](https://dceg.cancer.gov/) <br/> 
 [National Cancer Institute](https://www.cancer.gov/).
