@@ -21,7 +21,7 @@ title: Diptavo Dutta
 </td>
 <td class="left">
 <br><b> Diptavo Dutta </b>
-<br> Tenure Track Investigator
+<br> Earl Stadtman Tenure Track Investigator
 <br> Integrative Tumor Epidemiology Branch
 <br> Division of Cancer Epidemiology and Genetics
 <br> National Cancer Institute
@@ -37,7 +37,7 @@ title: Diptavo Dutta
 
 ## Announcements
 
-In Fall 2022, I will be starting as [Earl Stadtman Tenure Track investigator](https://irp.nih.gov/careers/trans-nih-scientific-recruitments/stadtman-tenure-track-investigators/science-the-stadtman-way) at the [Integrative Tumor Epidemiology Branch](https://dceg.cancer.gov/about/organization/tdrp/iteb) of the [Division of Cancer Epidemiology & Genetics](https://dceg.cancer.gov/) at the [National Cancer Institute](https://www.cancer.gov/).
+I am seeking motivated postdoc candidate to join my lab. Research projects are available to on diverse projects, including disease genetics, genetics of molecular phenotypes, rare variation analysis. \href{mailto:diptavo.dutta@nih.gov}{Email me} with a current CV, including publications and research experience. Diverse quantitative expertise will be considered, from machine learning methods to statistical genetics and bioinformatics.
 
 ## News
 
@@ -55,7 +55,7 @@ In Fall 2022, I will be starting as [Earl Stadtman Tenure Track investigator](ht
  <br>
  <br>
  <br>
-##### Email: <diptavo21@jhu.edu> or <ddutta4@jhmi.edu>
+##### Email: <diptavo.dutta@nih.gov> or <dutta.diptavo@gmail.com>
 
 <!--
 
