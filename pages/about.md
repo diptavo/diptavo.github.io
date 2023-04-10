@@ -6,7 +6,7 @@ description: Diptavo Dutta short academic biography
 
 
 
-Earl Stadtman Tenure Track Investigator <br/>
+** Earl Stadtman Tenure Track Investigator** <br/>
 [Integrative Tumor Epidemiology Branch](https://dceg.cancer.gov/about/organization/tdrp/iteb) <br/>
 [Division of Cancer Epidemiology & Genetics](https://dceg.cancer.gov/) <br/> 
 [National Cancer Institute](https://www.cancer.gov/).
@@ -64,7 +64,7 @@ You can find my current CV here. [![pdf](icons16/pdf-icon.png)](CV_DD.pdf) *Upda
             9609 Medical Center Drive, 7E236<br/>
             Rockville, MD 20850<br/>
             USA<br/>
-	    Email: diptavo.dutta@nih.gov, dutta.diptavo@gmail.com<br/>
+	    Email: <diptavo.dutta@nih.gov>, <dutta.diptavo@gmail.com> <br/>
         </div>
     </div>
 </div>
