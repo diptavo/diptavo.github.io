@@ -18,9 +18,13 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Publications
 
-**Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. [Aggregative trans-eQTL analysis detects trait-specific target gene sets in whole blood](https://www.nature.com/articles/s41467-022-31845-9). *Nature Communications*. 2022. 13, 4323.
+Maity, S., **Dutta, D.**, Terhorst, J., Sun, Y., Banerjee, M. [A linear adjustment based approach to posterior drift in transfer learning](https://arxiv.org/abs/2111.10841?context=stat). *Biometrika* (To appear).
 
-Surapaneni, A., Schlosser, P., ... , **Dutta, D.**, ... , Grams, M. E. [Identification of 969 protein quantitative trait loci in an African American population with kidney disease attributed to hypertension](https://www.sciencedirect.com/science/article/abs/pii/S0085253822005476). *Kidney International*. 2022.
+**Dutta, D.**, Sen, A., Satagopan, J. [Sparse canonical correlation to identify breast cancer related genes regulated by copy number aberrations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276886). *Plos One*. 2022. 17 (12) e0276886.
+
+Surapaneni, A., Schlosser, P., ... , **Dutta, D.**, ... , Grams, M. E. [Identification of 969 protein quantitative trait loci in an African American population with kidney disease attributed to hypertension](https://www.sciencedirect.com/science/article/abs/pii/S0085253822005476). *Kidney International*. 2022. 102(5) 1167-1177.
+
+**Dutta, D.**, He, Y., Saha, A., Arvanitis, M., Battle, A., Chatterjee, N. [Aggregative trans-eQTL analysis detects trait-specific target gene sets in whole blood](https://www.nature.com/articles/s41467-022-31845-9). *Nature Communications*. 2022. 13, 4323.
 
 Zhang, J., **Dutta, D.**, Kottgen, A., ... , Chatterjee, N. [Plasma proteome analyses in individuals of European and African ancestry identify cis-pQTLs and models for proteome-wide association studies](https://www.nature.com/articles/s41588-022-01051-w). *Nature Genetics*. 2022. 54 593-602.
 
@@ -49,8 +53,6 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 ### <a name="submitted"></a> Submitted and Preprints
 
 Qi, G., **Dutta, D.**, ... , Chatterjee, N. [A large-scale pleiotropic analysis identifies trait-specific loci and functional mechanisms](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1.abstract). 2022. *Under Review*.
-
-**Dutta, D.**, Sen, A., Satagopan, J. [Sparse canonical correlation to identify breast cancer related genes regulated by copy number aberrations](https://www.medrxiv.org/content/10.1101/2021.08.29.21262811v1). 2021. *Under Review*
 
 **Dutta, D.**, Ray, D., Chatterjee, N. Genetic association tests with multiple phenotypes: A review of current methods. 2021. *Invited Review Article*
 
