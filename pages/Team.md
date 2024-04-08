@@ -6,23 +6,6 @@ description: Resarch Lab
 
 
 <table class="wide">
-
-<tr>
-  <td class="left">
-      <a href="publpics/KW.html">
-        <img src="publpics/KW.png" width="275" height="275" alt="Kevin Wang" title="Kevin Wang"/>
-    </a>
-  </td>
-  <td class="right">
-  <font size="4.5" >
- <b> Kevin Wang</b> <br>
- </font>
- <a href="publpics/KW.html"> <b>Read more</b></a>
-  </td>
- </tr>
-
-
-
 <tr>
   <td class="left">
       <a href="publpics/OBJ.html">
@@ -31,12 +14,28 @@ description: Resarch Lab
   </td>
   <td class="right">
   <font size="4.5" >
- <b> Om B. Jahagirdar </b> <br>
+  <a href="publpics/OBJ.html"> <b>Om B. Jahagirdar </b></a>
  </font>
- <a href="publpics/OBJ.html"> <b>Read more</b></a>
-  </td>
+ </td>
  </tr>
  
+<tr>
+  <td class="left">
+      <a href="publpics/KW.html">
+        <img src="publpics/KW.png" width="275" height="275" alt="Kevin Wang" title="Kevin Wang"/>
+    </a>
+  </td>
+  <td class="right">
+  <font size="4.5" >
+ 
+ <a href="publpics/KW.html"> <b>Kevin Wang</b></a>
+ </font>
+ </td>
+ </tr>
+
+
+
+
 
 
 
