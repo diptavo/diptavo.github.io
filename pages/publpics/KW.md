@@ -3,13 +3,6 @@ layout: page
 title: Kevin Wang
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="KW.html">Next Topic</a></li>
-      </ul>
-  </div>
-</div>
 
 <p style="text-align:center;">
  <img src="KW.png" width="400" height="400" class = "center"> 
