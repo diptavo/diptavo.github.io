@@ -14,7 +14,7 @@ description: Resarch Lab
     </a>
   </td>
   <td class="right">
-  <font size="3.5" >
+  <font size="4.5" >
  <b> Kevin Wang</b> <br>
  </font>
  <a href="publpics/KW.html"> <b>Read more</b></a>
@@ -25,12 +25,12 @@ description: Resarch Lab
 
 <tr>
   <td class="left">
-      <a href="publpics/pqtl.html">
+      <a href="publpics/OBJ.html">
         <img src="publpics/OJB.png" width="275" height="275" alt="Om" title="Om Jahagirdar"/>
     </a>
   </td>
   <td class="right">
-  <font size="3.5" >
+  <font size="4.5" >
  <b> Om B. Jahagirdar </b> <br>
  </font>
  <a href="publpics/OBJ.html"> <b>Read more</b></a>
