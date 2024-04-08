@@ -18,7 +18,11 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Publications
 
-Maity, S., **Dutta, D.**, Terhorst, J., Sun, Y., Banerjee, M. [A linear adjustment based approach to posterior drift in transfer learning](https://arxiv.org/abs/2111.10841?context=stat). *Biometrika* (To appear).
+Purdue, M. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, ..., Chanock, S. Multi-ancestry genome-wide association study of kidney cancer identifies 63 susceptibility regions. (To appear *Nature Genetics*)
+
+Guo, X., Chatterjee, N., **Dutta, D**. [Subset-based method for cross-tissue transcriptome-wide association studies improves power and interpretability](https://doi.org/10.1016/j.xhgg.2024.100283). *HGG Advances*. 2024. 5(2) 100283.
+
+Maity, S., **Dutta, D.**, Terhorst, J., Sun, Y., Banerjee, M. [A linear adjustment based approach to posterior drift in transfer learning](https://arxiv.org/abs/2111.10841?context=stat). *Biometrika*. 2023. 111(1) 31-50. 
 
 **Dutta, D.**, Sen, A., Satagopan, J. [Sparse canonical correlation to identify breast cancer related genes regulated by copy number aberrations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276886). *Plos One*. 2022. 17 (12) e0276886.
 
@@ -52,11 +56,11 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 ### <a name="submitted"></a> Submitted and Preprints
 
-Guo, X., Chatterjee, N., **Dutta, D**. [Subset-based method for cross-tissue transcriptome-wide association studies improves power and interpretability](https://www.medrxiv.org/content/10.1101/2023.01.11.23284454v1). 2023.
+**Dutta D.**, Guo X, Winter T. D., ..., Chanock S. J, Purdue, M. P. Transcriptome, and proteome-wide association studies identify genes associated with renal cell carcinoma. (Under revision in *The American Journal of Human Genetics*)
+
+**Dutta D.**, Sen A., Satagopan J. Joint sparse canonical correlation to identify genes associated with stage at diagnosis of renal clear cell carcinoma. (Under revision in *Genetic Epidemiology*).
 
 Qi, G., **Dutta, D.**, ... , Chatterjee, N. [A large-scale pleiotropic analysis identifies trait-specific loci and functional mechanisms](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1.abstract). 2022. *Under Review*.
-
-**Dutta, D.**, Ray, D., Chatterjee, N. Genetic association tests with multiple phenotypes: A review of current methods. 2021. *Invited Review Article*
 
 
 ### <a name="Working"></a> Articles in preparation
