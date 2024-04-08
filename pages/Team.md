@@ -26,7 +26,7 @@ description: Resarch Lab
 <tr>
   <td class="left">
       <a href="publpics/pqtl.html">
-        <img src="publpics/fineMap.png" width="275" height="275" alt="Om" title="Om Jahagirdar"/>
+        <img src="publpics/OJB.png" width="275" height="275" alt="Om" title="Om Jahagirdar"/>
     </a>
   </td>
   <td class="right">
