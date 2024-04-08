@@ -24,6 +24,8 @@ Guo, X., Chatterjee, N., **Dutta, D**. [Subset-based method for cross-tissue tra
 
 Maity, S., **Dutta, D.**, Terhorst, J., Sun, Y., Banerjee, M. [A linear adjustment based approach to posterior drift in transfer learning](https://academic.oup.com/biomet/article/111/1/31/7159185). *Biometrika*. 2023. 111(1) 31-50. 
 
+Koutros, S., Kiemeney, L. A., ..., **Dutta, D.**,..., Rothman, N. [Genome-wide Association Study of Bladder Cancer Reveals New Biological and Translational Insights](https://www.sciencedirect.com/science/article/pii/S030228382302780X). *European Urology*. 2023. 84(1) 127-137.
+
 **Dutta, D.**, Sen, A., Satagopan, J. [Sparse canonical correlation to identify breast cancer related genes regulated by copy number aberrations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276886). *Plos One*. 2022. 17 (12) e0276886.
 
 Surapaneni, A., Schlosser, P., ... , **Dutta, D.**, ... , Grams, M. E. [Identification of 969 protein quantitative trait loci in an African American population with kidney disease attributed to hypertension](https://www.sciencedirect.com/science/article/abs/pii/S0085253822005476). *Kidney International*. 2022. 102(5) 1167-1177.
