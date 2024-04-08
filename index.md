@@ -17,7 +17,7 @@ title: Diptavo Dutta
 <table class="wide">
 <tr>
 <td class="left">
-    <img id="frontphoto" src="assets/bigpublpics/Diptav_Dutta.jpg" width="300" height="300" alt="" />
+    <img id="frontphoto" src="assets/bigpublpics/Diptavo_Dutta.jpg" width="300" height="300" alt="" />
 </td>
 <td class="left">
 <br><b> Diptavo Dutta </b>
