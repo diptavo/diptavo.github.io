@@ -22,7 +22,7 @@ Purdue, M. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, ..., Chanock, S. Multi-anc
 
 Guo, X., Chatterjee, N., **Dutta, D**. [Subset-based method for cross-tissue transcriptome-wide association studies improves power and interpretability](https://doi.org/10.1016/j.xhgg.2024.100283). *HGG Advances*. 2024. 5(2) 100283.
 
-Maity, S., **Dutta, D.**, Terhorst, J., Sun, Y., Banerjee, M. [A linear adjustment based approach to posterior drift in transfer learning](https://arxiv.org/abs/2111.10841?context=stat). *Biometrika*. 2023. 111(1) 31-50. 
+Maity, S., **Dutta, D.**, Terhorst, J., Sun, Y., Banerjee, M. [A linear adjustment based approach to posterior drift in transfer learning](https://academic.oup.com/biomet/article/111/1/31/7159185). *Biometrika*. 2023. 111(1) 31-50. 
 
 **Dutta, D.**, Sen, A., Satagopan, J. [Sparse canonical correlation to identify breast cancer related genes regulated by copy number aberrations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276886). *Plos One*. 2022. 17 (12) e0276886.
 
