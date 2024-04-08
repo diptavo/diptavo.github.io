@@ -15,23 +15,23 @@ description: Diptavo's software
 * R-shiny Application for visualizing cis-association and fine-mapping results for around 2,000 proteins in ARIC study
 
 
-### <a name="MultiSKAT"></a>[MultiSKAT](https://github.com/diptavo/MultiSKAT)
+#### <a name="MultiSKAT"></a>[MultiSKAT](https://github.com/diptavo/MultiSKAT)
 
 * R package to test multiple phenotype associations of rare variants
 
 
 
-### <a name="MMSKT"></a>[MetaMultiSKAT](https://github.com/diptavo/MetaMultiSKAT)
+#### <a name="MMSKT"></a>[MetaMultiSKAT](https://github.com/diptavo/MetaMultiSKAT)
 
 * R package for rare variant meta-analysis of multiple phenotypes using summary statistics
 
 
-### <a name="GAUSS"></a>[GAUSS](https://github.com/diptavo/GAUSS)
+#### <a name="GAUSS"></a>[GAUSS](https://github.com/diptavo/GAUSS)
 
 * R package for subset-based gene-set analysis method (GAUSS)
 
 
-### <a name="ARCHIE"></a>[ARCHIE](https://github.com/diptavo/ARCHIE)
+#### <a name="ARCHIE"></a>[ARCHIE](https://github.com/diptavo/ARCHIE)
 
 * R-codes for summary-based sparse canonical correlation analysis in large-scale trans-eQTL studies.
 
