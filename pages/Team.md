@@ -54,8 +54,11 @@ description: Resarch Lab
   <td class="right">
   <font size="4.5" >
  <a href="publpics/KW.html"> <b>Kevin Wang</b></a><br><br>
- <b> Postbaccalaureate Fellow, ITEB, DCEG, NCI </b> <br>
- </font>
+ <b> Postbaccalaureate Fellow, ITEB, DCEG, NCI </b> <br><br>
+  </font>
+  <font size="3.5" >
+  <b> Email: <a href="mailto: kevin.wang4@nih.gov">kevin.wang4@nih.gov</a></b> <br>
+  </font> 
  </td>
  </tr>
 

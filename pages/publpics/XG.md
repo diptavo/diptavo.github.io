@@ -19,5 +19,3 @@ Outside of academia, he has a passion for basketball, photography, and diving.
 
 ## Contact
 
-##### Email: Xinyu Guo: <xyguo1202@gmail.com>
-
