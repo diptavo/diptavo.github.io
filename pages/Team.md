@@ -16,6 +16,7 @@ description: Resarch Lab
   <td class="right">
   <font size="4.5" >
   <a href="publpics/XG.html"> <b>Xinyu (Brian) Guo</b></a>
+  <b> Ph.D. candidate, University of Southern California </b> <br>
  </font>
  </td>
  </tr>
@@ -31,6 +32,7 @@ description: Resarch Lab
   <td class="right">
   <font size="4.5" >
   <a href="publpics/OBJ.html"> <b>Om B. Jahagirdar </b></a>
+ <b> Research Analyst, ITEB, DCEG, NCI </b> <br>
  </font>
  </td>
  </tr>
