@@ -16,11 +16,12 @@ description: Resarch Lab
   <td class="right">
   <font size="4.5" >
   <a href="publpics/XG.html"> <b>Xinyu (Brian) Guo</b></a> <br><br>
-  <b> Ph.D. candidate, University of Southern California </b> <br>
+  <b> Ph.D. candidate, University of Southern California </b> <br> <br>
+  <b> Contact Email: xyguo1202@gmail.com</b> <br>
  </font>
  </td>
  </tr>
-##### Contact Email: <xyguo1202@gmail.com>
+
 
 
 <table class="wide">
