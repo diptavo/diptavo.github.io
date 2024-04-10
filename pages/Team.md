@@ -18,7 +18,7 @@ description: Resarch Lab
   <a href="publpics/XG.html"> <b>Xinyu (Brian) Guo</b></a> <br><br>
   <b> Ph.D. candidate, University of Southern California </b> <br> <br>
   </font>
-  <font size="2.5" >
+  <font size="3.5" >
   <b> Email: <a href="mailto: xyguo1202@gmail.com">xyguo1202@gmail.com</a></b> <br>
   </font> 
  </td>
@@ -36,8 +36,11 @@ description: Resarch Lab
   <td class="right">
   <font size="4.5" >
   <a href="publpics/OBJ.html"> <b>Om B. Jahagirdar </b></a> <br><br>
- <b> Research Analyst, ITEB, DCEG, NCI </b> <br>
- </font>
+ <b> Research Analyst, ITEB, DCEG, NCI </b> <br><br>
+  </font>
+  <font size="3.5" >
+  <b> Email: <a href="mailto: om.jahagirdar@nih.gov">om.jahagirdar@nih.gov</a></b> <br>
+  </font> 
  </td>
  </tr>
 
