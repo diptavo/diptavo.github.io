@@ -15,7 +15,7 @@ description: Resarch Lab
   </td>
   <td class="right">
   <font size="4.5" >
-  <a href="publpics/XG.html"> <b>Xinyu (Brian) Guo</b></a>
+  <a href="publpics/XG.html"> <b>Xinyu (Brian) Guo</b></a> <br>
   <b> Ph.D. candidate, University of Southern California </b> <br>
  </font>
  </td>
@@ -31,7 +31,7 @@ description: Resarch Lab
   </td>
   <td class="right">
   <font size="4.5" >
-  <a href="publpics/OBJ.html"> <b>Om B. Jahagirdar </b></a>
+  <a href="publpics/OBJ.html"> <b>Om B. Jahagirdar </b></a> <br>
  <b> Research Analyst, ITEB, DCEG, NCI </b> <br>
  </font>
  </td>
@@ -46,8 +46,8 @@ description: Resarch Lab
   </td>
   <td class="right">
   <font size="4.5" >
- 
- <a href="publpics/KW.html"> <b>Kevin Wang</b></a>
+ <a href="publpics/KW.html"> <b>Kevin Wang</b></a><br>
+ <b> Postbaccaleurate Fellow, ITEB, DCEG, NCI </b> <br>
  </font>
  </td>
  </tr>
