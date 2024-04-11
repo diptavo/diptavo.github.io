@@ -50,7 +50,7 @@ Before my doctoral studies, I earned a <b>Masters in Statistics (M.Stat)</b> in 
 
 ### Resume
 
-You can find my current CV here. [![pdf](icons16/pdf-icon.png)](CV_DD.pdf) *Updated May, 2022*.
+You can find my current CV here. [![pdf](icons16/pdf-icon.png)](diptavo_1.pdf) *Updated April, 2024*.
 
 
 <div class="container">
