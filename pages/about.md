@@ -64,7 +64,8 @@ You can find my current CV here. [![pdf](icons16/pdf-icon.png)](diptavo_1.pdf) *
             9609 Medical Center Drive, 7E236<br/>
             Rockville, MD 20850<br/>
             USA<br/>
-	    Email: <diptavo.dutta@nih.gov>, <dutta.diptavo@gmail.com> <br/>
+  <b> Email: <a href="mailto: diptavo.dutta@nih.gov">diptavo.dutta@nih.gov</a>, <a href="mailto: dutta.diptavo@gmail.com">dutta.diptavo@gmail.com</a> </b> <br>
+  Email: <diptavo.dutta@nih.gov>, <dutta.diptavo@gmail.com> <br/>
         </div>
     </div>
 </div>
