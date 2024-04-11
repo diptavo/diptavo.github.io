@@ -36,7 +36,7 @@ description: Resarch Lab
   <td class="right">
   <font size="4.5" >
   <a href="publpics/OBJ.html"> <b>Om B. Jahagirdar </b></a> <br><br>
- <b> Research Analyst, ITEB, DCEG, NCI </b> <br><br>
+ <b> Bioinformatics Scientist, ITEB, DCEG, NCI </b> <br><br>
   </font>
   <font size="3.5" >
   <b> Email: <a href="mailto: om.jahagirdar@nih.gov">om.jahagirdar@nih.gov</a></b> <br>
