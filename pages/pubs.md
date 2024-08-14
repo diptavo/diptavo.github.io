@@ -63,9 +63,6 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 ### <a name="submitted"></a> Submitted and Preprints
 
-**Dutta D.**, Guo X, Winter T. D., ..., Chanock S. J, Purdue, M. P. Transcriptome, and proteome-wide association studies identify genes associated with renal cell carcinoma. (Under revision in *The American Journal of Human Genetics*)
-
-**Dutta D.**, Sen A., Satagopan J. Joint sparse canonical correlation to identify genes associated with stage at diagnosis of renal clear cell carcinoma. (Under revision in *Genetic Epidemiology*).
 
 Qi, G., **Dutta, D.**, ... , Chatterjee, N. [A large-scale pleiotropic analysis identifies trait-specific loci and functional mechanisms](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1.abstract). 2022. *Under Review*.
 
