@@ -18,7 +18,12 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Publications
 
-Purdue, M. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, ..., Chanock, S. Multi-ancestry genome-wide association study of kidney cancer identifies 63 susceptibility regions. (To appear *Nature Genetics*)
+**Dutta, D.**, Sen, A., Satagopan, J. S. [Transcriptome-and proteome-wide association studies identify genes associated with renal cell carcinoma](https://www.cell.com/ajhg/fulltext/S0002-9297(24)00256-8). *The American Journal of Human Genetics*. 2024. doi: 10.1016/j.ajhg.2024.07.012 (early access)
+
+**Dutta, D.**, Sen, A., Satagopan, J. S. [Identifying genes associated with disease outcomes using joint sparse canonical correlation analysis—An application in renal clear cell carcinoma](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22566). *Genetic Epidemiology*. 2024. 1-19. doi: 10.1002/gepi.22566
+
+
+Purdue, M. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, ..., Chanock, S. [Multi-ancestry genome-wide association study of kidney cancer identifies 63 susceptibility regions](https://www.nature.com/articles/s41588-024-01725-7). *Nature Genetics*. 2024. 56, 809-818.
 
 Guo, X., Chatterjee, N., **Dutta, D**. [Subset-based method for cross-tissue transcriptome-wide association studies improves power and interpretability](https://doi.org/10.1016/j.xhgg.2024.100283). *HGG Advances*. 2024. 5(2) 100283.
 
