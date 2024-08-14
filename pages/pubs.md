@@ -18,7 +18,10 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Publications
 
-**Dutta, D.**, Sen, A., Satagopan, J. S. [Transcriptome-and proteome-wide association studies identify genes associated with renal cell carcinoma](https://www.cell.com/ajhg/fulltext/S0002-9297(24)00256-8). *The American Journal of Human Genetics*. 2024. doi: 10.1016/j.ajhg.2024.07.012 (early access)
+
+Qi, G., ..., **Dutta, D.**, ..., Chatterjee, N. [A large-scale pleiotropic analysis identifies trait-specific loci and functional mechanisms](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1.abstract). 2024. (To appear in *Nature Communications*)
+
+**Dutta, D.**, Guo, X., Winter, T.D., ..., Purdue, M.P. [Transcriptome-and proteome-wide association studies identify genes associated with renal cell carcinoma](https://www.cell.com/ajhg/fulltext/S0002-9297(24)00256-8). *The American Journal of Human Genetics*. 2024. doi: 10.1016/j.ajhg.2024.07.012 (early access)
 
 **Dutta, D.**, Sen, A., Satagopan, J. S. [Identifying genes associated with disease outcomes using joint sparse canonical correlation analysis—An application in renal clear cell carcinoma](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22566). *Genetic Epidemiology*. 2024. 1-19. doi: 10.1002/gepi.22566
 
@@ -63,9 +66,9 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 ### <a name="submitted"></a> Submitted and Preprints
 
+Hubbard, A. K., ..., **Dutta, D.**, Machiela, M. J. Integration of germline and somatic variation improves chronic lymphocytic leukemia risk stratification. 
 
-Qi, G., **Dutta, D.**, ... , Chatterjee, N. [A large-scale pleiotropic analysis identifies trait-specific loci and functional mechanisms](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1.abstract). 2022. *Under Review*.
-
+Winter, T., Jahagirdar, O., ..., **Dutta, D**. Mendelian randomization identifies risk factor differences across renal cell carcinoma subtypes.
 
 ### <a name="Working"></a> Articles in preparation
 
