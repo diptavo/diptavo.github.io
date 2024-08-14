@@ -41,7 +41,6 @@ title: Diptavo Dutta
 
 - I am seeking a motivated postdoc candidate to join my lab. Research projects are available on diverse projects, including disease genetics, genetics of molecular phenotypes and rare variation analysis. **Email me** at: <diptavo.dutta@nih.gov> with a current CV, including publications and research experience. Diverse quantitative expertise will be considered, from machine learning methods to statistical genetics and bioinformatics.
 
-- I am seeking a masters level research analyst/Bioinformatician to join my lab. See job details and how to apply [here](https://dceg.cancer.gov/about/careers/current-openings/bioinformatics-scientist-iteb).
 
 
 ## News
