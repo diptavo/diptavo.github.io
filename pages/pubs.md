@@ -7,7 +7,7 @@ description: Diptavo Dutta's research work
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#articles">Publications</a></li>
+            <li><a href="#articles">Peer-reviewed Publications</a></li>
             <li><a href="#submitted">Submitted and Preprints </a></li>
             <li><a href="#Working">Articles in preparation</a></li>            
             <li><a href="#dissertation">Dissertation</a></li>
@@ -16,7 +16,7 @@ description: Diptavo Dutta's research work
 </div>
 
 
-### <a name="articles"></a> Publications
+### <a name="articles"></a> Peer-reviewed Publications
 
 **Dutta, D.<sup>1</sup>**, Gouveia, M.H.<sup>1</sup>, Gorman, B.R.<sup>1</sup>, ..., Mbulaiteye, S. M. [A genome-wide association study identifies an African-specific locus on chromosome 21q22.12 associated with Burkitt lymphoma risk and survival](https://www.nature.com/articles/s41375-025-02690-8). *Leukemia*. 2025. doi: 10.1038/s41375-025-02690-8
 
