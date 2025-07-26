@@ -18,10 +18,15 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Publications
 
+**Dutta, D.**, Gouveia, M.H., Gorman, B.R. et al. [A genome-wide association study identifies an African-specific locus on chromosome 21q22.12 associated with Burkitt lymphoma risk and survival](https://www.nature.com/articles/s41375-025-02690-8). *Leukemia*. 2025. doi: 10.1038/s41375-025-02690-8
 
-Qi, G., ..., **Dutta, D.**, ..., Chatterjee, N. [A large-scale pleiotropic analysis identifies trait-specific loci and functional mechanisms](https://www.biorxiv.org/content/10.1101/2022.06.03.494686v1.abstract). 2024. (To appear in *Nature Communications*)
+Hubbard, A. K., ..., **Dutta, D.**, ..., Machiela, M. J. [Integration of germline and somatic variation improves chronic lymphocytic leukemia risk stratification](https://aacrjournals.org/cancerres/article-abstract/85/14/2743/763447/Integration-of-Germline-and-Somatic-Variation). *Cancer Research*. 2025. 85 (14), 2743–2752.
 
-**Dutta, D.**, Guo, X., Winter, T.D., ..., Purdue, M.P. [Transcriptome-and proteome-wide association studies identify genes associated with renal cell carcinoma](https://www.cell.com/ajhg/fulltext/S0002-9297(24)00256-8). *The American Journal of Human Genetics*. 2024. doi: 10.1016/j.ajhg.2024.07.012 (early access)
+**Dutta, D.**, Chatterjee, N. [Expanding scope of genetic studies in the era of biobanks](https://academic.oup.com/hmg/advance-article-abstract/doi/10.1093/hmg/ddaf054/8123646). *Human Molecular Genetics*. 2025.  ddaf054, doi:10.1093/hmg/ddaf054.
+
+Qi, G., ..., **Dutta, D.**, ..., Chatterjee, N. [A large-scale pleiotropic analysis identifies trait-specific loci and functional mechanisms](https://www.nature.com/articles/s41467-024-51075-5). *Nature Communications*. 2024. 15, 6985.
+
+**Dutta, D.**, Guo, X., Winter, T.D., ..., Purdue, M.P. [Transcriptome-and proteome-wide association studies identify genes associated with renal cell carcinoma](https://www.cell.com/ajhg/fulltext/S0002-9297(24)00256-8). *The American Journal of Human Genetics*. 2024. 111(9), 1864-1876.
 
 **Dutta, D.**, Sen, A., Satagopan, J. S. [Identifying genes associated with disease outcomes using joint sparse canonical correlation analysis—An application in renal clear cell carcinoma](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22566). *Genetic Epidemiology*. 2024. 1-19. doi: 10.1002/gepi.22566
 
