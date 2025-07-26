@@ -67,24 +67,18 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 **Dutta, D.**, Scott, L., Boehnke, M., Lee, S. [Multi-SKAT: General framework to test multiple phenotype associations of rare variants](https://pubmed.ncbi.nlm.nih.gov/30298564/]).  *Genetic Epidemiology*. 2019. 43(1), 1-20.
 
- <sup>1</sup>: Authors contributed equally 
 
 ### <a name="submitted"></a> Submitted and Preprints
 
-Hubbard, A. K., ..., **Dutta, D.**, Machiela, M. J. Integration of germline and somatic variation improves chronic lymphocytic leukemia risk stratification. 
+Mhatre, S. <sup> 1</sup>, **Dutta, D. <sup> 1</sup>**, ..., Dikshit, R., Chatterjee, N. [A Genome-wide Association study of Buccal Mucosa Cancer in India and Multi-ancestry Meta-analysis Identifies Novel Risk Loci and Gene-environment Interactions.](https://www.medrxiv.org/content/10.1101/2025.04.16.25325815v1)
 
 Winter, T., Jahagirdar, O., ..., **Dutta, D**. Mendelian randomization identifies risk factor differences across renal cell carcinoma subtypes.
 
+<sup>1</sup>: Authors contributed equally 
+
 ### <a name="Working"></a> Articles in preparation
 
-**Dutta, D.** & Chatterjee, N. Fast and efficient liability model for binary phenotypes in Biobanks.
-
-**Dutta, D.**, Zhang, J., ... , Chatterjee, N. Novel sparse canonical correlation analysis to identify trans-regulated protein networks associated with known complex trait variants.
-
-Shabani, M., **Dutta, D.**, ... , Lima, J. Rare Genetic Variants in Individuals with Low ASCVD Risk and Hard CHD or High Coronary Artery Disease: Multi-Ethnic Study of Atherosclerosis.
-
-Chhetri, S., **Dutta, D.**, ... , Battle, A. A colocalization approach to determine shared heritability of diseases across ethnicities
-
+Sajal, I.H., ..., **Dutta, D**. Two stage Mendelian Randomization prioritizes proteomic mediators for renal cell carcinoma.
 
 ### <a name="dissertation"></a> Dissertation
 
