@@ -18,7 +18,7 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Publications
 
-**Dutta, D.**, Gouveia, M.H., Gorman, B.R. et al. [A genome-wide association study identifies an African-specific locus on chromosome 21q22.12 associated with Burkitt lymphoma risk and survival](https://www.nature.com/articles/s41375-025-02690-8). *Leukemia*. 2025. doi: 10.1038/s41375-025-02690-8
+**Dutta, D.<sup>1</sup>**, Gouveia, M.H.<sup>1</sup>, Gorman, B.R.<sup>1</sup>, ..., Mbulaiteye, S. M. [A genome-wide association study identifies an African-specific locus on chromosome 21q22.12 associated with Burkitt lymphoma risk and survival](https://www.nature.com/articles/s41375-025-02690-8). *Leukemia*. 2025. doi: 10.1038/s41375-025-02690-8
 
 Hubbard, A. K., ..., **Dutta, D.**, ..., Machiela, M. J. [Integration of germline and somatic variation improves chronic lymphocytic leukemia risk stratification](https://aacrjournals.org/cancerres/article-abstract/85/14/2743/763447/Integration-of-Germline-and-Somatic-Variation). *Cancer Research*. 2025. 85 (14), 2743–2752.
 
