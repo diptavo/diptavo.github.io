@@ -22,9 +22,9 @@ Zhang, T., ..., **Dutta, D.**, ..., Stolzenberg-Solomon, R. Z. [Different diabet
 
 Freimann, K., Brummer, A., ..., **Dutta, D.**, ..., Alasoo, K.[Trans-eQTL mapping prioritises USP18 as a negative regulator of interferon response at a lupus risk locus](https://www.nature.com/articles/s41467-025-63856-7). *Nature Communications*. 2025. 16, 8795.
 
-Winter, T., Jahagirdar, O., ..., **Dutta, D.**. [Mendelian randomization identifies risk factor differences across renal cell carcinoma subtypes.](https://academic.oup.com/ije/article/54/6/dyaf177/8307170). *International Journal of Epidemiology*. 2025. 54(6) dyaf177.
+Winter, T.<sup> 1</sup>, Jahagirdar, O.<sup> 1</sup>, ..., **Dutta, D.**. [Mendelian randomization identifies risk factor differences across renal cell carcinoma subtypes.](https://academic.oup.com/ije/article/54/6/dyaf177/8307170). *International Journal of Epidemiology*. 2025. 54(6) dyaf177.
 
-Mhatre, S. <sup> 1</sup>, **Dutta, D. <sup> 1</sup>**, ..., Dikshit, R., Chatterjee, N. [A Genome-wide Association study of Buccal Mucosa Cancer in India and Multi-ancestry Meta-analysis Identifies Novel Risk Loci and Gene-environment Interactions.](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00486-4/fulltext). eBioMedicine. 2025. 122-106042.
+Mhatre, S. <sup> 1</sup>, **Dutta, D. <sup> 1</sup>**, ..., Dikshit, R., Chatterjee, N. [A Genome-wide Association study of Buccal Mucosa Cancer in India and Multi-ancestry Meta-analysis Identifies Novel Risk Loci and Gene-environment Interactions.](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00486-4/fulltext). *eBioMedicine*. 2025. 122-106042.
 
 **Dutta, D.<sup>1</sup>**, Gouveia, M.H.<sup>1</sup>, Gorman, B.R.<sup>1</sup>, ..., Mbulaiteye, S. M. [A genome-wide association study identifies an African-specific locus on chromosome 21q22.12 associated with Burkitt lymphoma risk and survival](https://www.nature.com/articles/s41375-025-02690-8). *Leukemia*. 2025. doi: 10.1038/s41375-025-02690-8
 
