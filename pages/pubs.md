@@ -18,6 +18,14 @@ description: Diptavo Dutta's research work
 
 ### <a name="articles"></a> Peer-reviewed Publications
 
+Zhang, T., ..., **Dutta, D.**, ..., Stolzenberg-Solomon, R. Z. [Different diabetes types and pancreatic ductal adenocarcinoma: a Mendelian randomization and pathway/gene-set analysis](https://academic.oup.com/jnci/advance-article/doi/10.1093/jnci/djaf308/8317453). *JNCI*. 2025. doi: 10.1093/jnci/djaf308.
+
+Freimann, K., Brummer, A., ..., **Dutta, D.**, ..., Alasoo, K.[Trans-eQTL mapping prioritises USP18 as a negative regulator of interferon response at a lupus risk locus](https://www.nature.com/articles/s41467-025-63856-7). *Nature Communications*. 2025. 16, 8795.
+
+Winter, T., Jahagirdar, O., ..., **Dutta, D.**. [Mendelian randomization identifies risk factor differences across renal cell carcinoma subtypes.](https://academic.oup.com/ije/article/54/6/dyaf177/8307170). *International Journal of Epidemiology*. 2025. 54(6) dyaf177.
+
+Mhatre, S. <sup> 1</sup>, **Dutta, D. <sup> 1</sup>**, ..., Dikshit, R., Chatterjee, N. [A Genome-wide Association study of Buccal Mucosa Cancer in India and Multi-ancestry Meta-analysis Identifies Novel Risk Loci and Gene-environment Interactions.](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00486-4/fulltext). eBioMedicine. 2025. 122-106042.
+
 **Dutta, D.<sup>1</sup>**, Gouveia, M.H.<sup>1</sup>, Gorman, B.R.<sup>1</sup>, ..., Mbulaiteye, S. M. [A genome-wide association study identifies an African-specific locus on chromosome 21q22.12 associated with Burkitt lymphoma risk and survival](https://www.nature.com/articles/s41375-025-02690-8). *Leukemia*. 2025. doi: 10.1038/s41375-025-02690-8
 
 Hubbard, A. K., ..., **Dutta, D.**, ..., Machiela, M. J. [Integration of germline and somatic variation improves chronic lymphocytic leukemia risk stratification](https://aacrjournals.org/cancerres/article-abstract/85/14/2743/763447/Integration-of-Germline-and-Somatic-Variation). *Cancer Research*. 2025. 85 (14), 2743–2752.
@@ -29,7 +37,6 @@ Qi, G., ..., **Dutta, D.**, ..., Chatterjee, N. [A large-scale pleiotropic analy
 **Dutta, D.**, Guo, X., Winter, T.D., ..., Purdue, M.P. [Transcriptome-and proteome-wide association studies identify genes associated with renal cell carcinoma](https://www.cell.com/ajhg/fulltext/S0002-9297(24)00256-8). *The American Journal of Human Genetics*. 2024. 111(9), 1864-1876.
 
 **Dutta, D.**, Sen, A., Satagopan, J. S. [Identifying genes associated with disease outcomes using joint sparse canonical correlation analysis—An application in renal clear cell carcinoma](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22566). *Genetic Epidemiology*. 2024. 1-19. doi: 10.1002/gepi.22566
-
 
 Purdue, M. <sup> 1</sup>, **Dutta, D.<sup> 1</sup>**, ..., Chanock, S. [Multi-ancestry genome-wide association study of kidney cancer identifies 63 susceptibility regions](https://www.nature.com/articles/s41588-024-01725-7). *Nature Genetics*. 2024. 56, 809-818.
 
@@ -70,15 +77,21 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 ### <a name="submitted"></a> Submitted and Preprints
 
-Mhatre, S. <sup> 1</sup>, **Dutta, D. <sup> 1</sup>**, ..., Dikshit, R., Chatterjee, N. [A Genome-wide Association study of Buccal Mucosa Cancer in India and Multi-ancestry Meta-analysis Identifies Novel Risk Loci and Gene-environment Interactions.](https://www.medrxiv.org/content/10.1101/2025.04.16.25325815v1)
+**Dutta, D.**<sup> 1</sup>, Zhang, J.<sup> 1</sup>, ..., Chatterjee, N. [Leveraging and partitioning polygenic risk scores to identify proteomic mediators of cancer risk](https://www.medrxiv.org/content/medrxiv/early/2025/11/25/2025.11.23.25340827.full.pdf)
 
-Winter, T., Jahagirdar, O., ..., **Dutta, D**. Mendelian randomization identifies risk factor differences across renal cell carcinoma subtypes.
+Chhetri, S.B., Winter, T.D., ..., **Dutta, D.** [Integrative multi-omic analysis identifies key transcription factors and target proteins in renal cell carcinoma and its subtypes](https://www.biorxiv.org/content/10.1101/2025.11.23.690024.full.pdf) 
+
+Mukherjee, D., Wang, K., Song, A.J., ..., **Dutta, D.**<sup> 1</sup>, Sahoo, I<sup> 1</sup> [TASTE identifies shared proteomic effects on multiple related cancers](https://www.medrxiv.org/content/medrxiv/early/2025/12/29/2025.12.19.25342717.full.pdf)
+
+Sajal, I.H., ..., **Dutta, D**. Integrative analysis prioritizes proteins associated to renal cell carcinoma and its risk factors.
 
 <sup>1</sup>: Authors contributed equally 
 
 ### <a name="Working"></a> Articles in preparation
 
-Sajal, I.H., ..., **Dutta, D**. Two stage Mendelian Randomization prioritizes proteomic mediators for renal cell carcinoma.
+Song, A.J., Chatterjee, C., ..., **Dutta, D**. Proteogenomic analysis provides insights into the effect of physical activity on cancers.
+
+Sajal, I.H., Wang, K., ..., **Dutta, D**. Meta-trans identifies association between disease-related variants and pathways.
 
 ### <a name="dissertation"></a> Dissertation
 
