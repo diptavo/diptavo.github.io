@@ -4,6 +4,10 @@ title: softwares
 description: Diptavo's software
 ---
 
+#### <a name="TASTE"></a>[TASTE](https://github.com/diptavo/TASTE)
+
+* TASTE (Trans Association using Shared factorization and TEsting), a summary-statistic based method that identifies shared protein modules (or any other omics) regulated by disease-associated variants across related traits and diseases.
+
 
 #### <a name="PathWeb"></a>[PathWeb](https://ukb-pathway.leelabsg.org/)
 
