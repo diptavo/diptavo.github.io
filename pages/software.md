@@ -1,8 +1,13 @@
 ---
 layout: page
-title: softwares
+title: Software
 description: Diptavo's software
 ---
+
+#### <a name="HARMONI"></a>[HARMONI](https://github.com/diptavo/HARMONI)
+
+* joint Bayesian analysis of pooled and subtype/state-specific molecular association statistics..
+
 
 #### <a name="TASTE"></a>[TASTE](https://github.com/diptavo/TASTE)
 
