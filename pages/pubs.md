@@ -9,7 +9,6 @@ description: Diptavo Dutta's research work
         <ul class="nav">
             <li><a href="#articles">Peer-reviewed Publications</a></li>
             <li><a href="#submitted">Submitted and Preprints </a></li>
-            <li><a href="#Working">Articles in preparation</a></li>            
             <li><a href="#dissertation">Dissertation</a></li>
         </ul>
     </div>
@@ -17,6 +16,14 @@ description: Diptavo Dutta's research work
 
 
 ### <a name="articles"></a> Peer-reviewed Publications
+
+
+
+Chhetri, S.B., Winter, T.D., ..., **Dutta, D.** [Integrative multi-omic analysis identifies key transcription factors and target proteins in renal cell carcinoma and its subtypes](https://www.biorxiv.org/content/10.1101/2025.11.23.690024.full.pdf). In press *Communications Biology*
+
+**Dutta, D.**<sup> 1</sup>, Zhang, J.<sup> 1</sup>, ..., Chatterjee, N. [Polygenic risk scores and plasma proteomics identify cancer-related proteins and trans-regulated protein networks](https://www.medrxiv.org/content/medrxiv/early/2025/11/25/2025.11.23.25340827.full.pdf). In press *Cell Genomics*
+
+Sajal IH, Song AJ, Brown KM, Machiela MJ, Kraft P, Chanock SJ, Purdue MP, **Dutta D**. [Integrative analysis prioritizes proteins associated to renal cell carcinoma and its risk factors](https://academic.oup.com/jncics/advance-article/doi/10.1093/jncics/pkag074/8733260). In press *JNCI Cancer Spectrum*
 
 Zhang, T., ..., **Dutta, D.**, ..., Stolzenberg-Solomon, R. Z. [Different diabetes types and pancreatic ductal adenocarcinoma: a Mendelian randomization and pathway/gene-set analysis](https://academic.oup.com/jnci/advance-article/doi/10.1093/jnci/djaf308/8317453). *JNCI*. 2025. doi: 10.1093/jnci/djaf308.
 
@@ -77,21 +84,23 @@ Arvanitis, M., Tampakakis, E., Zhang, Y., Wang, W., Auton, A., 23andMe Research 
 
 ### <a name="submitted"></a> Submitted and Preprints
 
-**Dutta, D.**<sup> 1</sup>, Zhang, J.<sup> 1</sup>, ..., Chatterjee, N. [Leveraging and partitioning polygenic risk scores to identify proteomic mediators of cancer risk](https://www.medrxiv.org/content/medrxiv/early/2025/11/25/2025.11.23.25340827.full.pdf)
 
-Chhetri, S.B., Winter, T.D., ..., **Dutta, D.** [Integrative multi-omic analysis identifies key transcription factors and target proteins in renal cell carcinoma and its subtypes](https://www.biorxiv.org/content/10.1101/2025.11.23.690024.full.pdf) 
 
-Mukherjee, D., Wang, K., Song, A.J., ..., **Dutta, D.**<sup> 1</sup>, Sahoo, I<sup> 1</sup> [TASTE identifies shared proteomic effects on multiple related cancers](https://www.medrxiv.org/content/medrxiv/early/2025/12/29/2025.12.19.25342717.full.pdf)
+Mukherjee, D., Wang, K., Song, A.J., ..., **Dutta, D.**<sup> 1</sup>, Sahoo, I<sup> 1</sup> [TASTE identifies shared proteomic effects on multiple related cancers](https://www.medrxiv.org/content/medrxiv/early/2025/12/29/2025.12.19.25342717.full.pdf). In review *Cell Genomics*
 
-Sajal, I.H., ..., **Dutta, D**. Integrative analysis prioritizes proteins associated to renal cell carcinoma and its risk factors.
+Song, A.J., Chatterjee, C., ..., **Dutta, D**. Proteogenomic analysis provides insights into the effect of physical activity on cancers. In review *JNCI*
+
+Sajal, I.H., Wang, K., ..., **Dutta, D**. Multi-Trans: A summary statistics-based toolset for identifying trans-regulation of proteomic pathways by cancer-related variants. In review *Genome Biology*
+
+Guo X, **Dutta, D**. DISCOVER: cell-resolved interpretation of GWAS signals through paired single-cell transcriptome and chromatin accessibility. In review *Science Advances*
+
+O'Mahony DG, Beesley J, Zanti M, Dennis J, **Dutta D**, ..., Michailidou K. Comparative fine-mapping of breast cancer susceptibility loci using summary statistics methods and multinomial regression. In revision *Communications Medicine*
+
+Sajal IH, Shi J, Kraft P, **Dutta D**. HARMONI: heterogeneity-aware inference for molecular association studies of diseases. In review *Nature Genetics*
+
+
 
 <sup>1</sup>: Authors contributed equally 
-
-### <a name="Working"></a> Articles in preparation
-
-Song, A.J., Chatterjee, C., ..., **Dutta, D**. Proteogenomic analysis provides insights into the effect of physical activity on cancers.
-
-Sajal, I.H., Wang, K., ..., **Dutta, D**. Meta-trans identifies association between disease-related variants and pathways.
 
 ### <a name="dissertation"></a> Dissertation
 
